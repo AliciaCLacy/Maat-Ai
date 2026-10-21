@@ -77,6 +77,18 @@ Phase 1 is deliberately the living library only. Phase 2 adds:
 Phase 2 keeps the 100% rule: her code, her domain, her data — no backend
 lock-in. The static Phase 1 shell stays exactly as-is underneath.
 
+## AI Harm Protection
+
+The protection layer of this system, added 2026-10-20 from her book
+*Frontier Coding — AI Harms: A Study in People's Rights and Protections*
+(Alicia C. Lacy, Oct 20, 2026). Her law: **protect first, no matter the
+prompt** — a think-before-you-act system. The layer monitors, blocks,
+isolates, and reports immediately; it routes every harm instance to its
+assigned prevention vein and seals works with the BlockSeal watermark
+(Code · Author · Date · Time Stamp · System). It lives in
+[`ai-harm-protection/`](ai-harm-protection/) — one living system, with
+the protection in the circulation itself.
+
 ## Rules (hers)
 
 - Her titles and names verbatim — never reworded or inferred down.
