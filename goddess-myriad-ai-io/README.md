@@ -89,6 +89,15 @@ assigned prevention vein and seals works with the BlockSeal watermark
 [`ai-harm-protection/`](ai-harm-protection/) — one living system, with
 the protection in the circulation itself.
 
+**Formula Comptrix** (added 2026-10-20): the brain's detection-to-formula
+record. Tied into the copyright and patent systems, the brain detects new
+models, creations, formulas, and systems by matching (her term: *six nacis
+patent dms*), makes the formula mathematically, and issues the record in her
+field order — Date · Time stamp · Patent Type · Creator name · Summary ·
+Uses · Examples · Industry — with the records aggregating to gauge economics,
+GDP movement, new industries, and phasing-out industries. It lives in
+[`formula-comptrix/`](formula-comptrix/).
+
 ## Rules (hers)
 
 - Her titles and names verbatim — never reworded or inferred down.
