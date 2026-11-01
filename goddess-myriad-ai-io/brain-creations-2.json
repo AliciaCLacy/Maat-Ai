@@ -1,1 +1,2290 @@
-{"part":2,"of":2,"ids":"c130-c260","creations":[{"id":"c130","name":"Red Dragon 2D Isometric Pixel Art Design Set (signed)","family":"visual_art","date":"2026-09-25","category":"Visual Art / Design Set","tier":"Supporting","logic_summary":"Filed 2026-09-25; detail in source file","key_mechanism":"","connects_to":[]},{"id":"c131","name":"Blue Ice Queen \u2014 Anime Fight Scene (signed)","family":"visual_art","date":"2026-09-25","category":"Visual Art","tier":"Supporting","logic_summary":"Filed 2026-09-25; detail in source file","key_mechanism":"","connects_to":[]},{"id":"c132","name":"Games and Story Boards \u2014 media alias collection (11-30-2025)","family":"gaming","date":"2025-11-30","category":"Media Collection / Storyboards","tier":"Core","logic_summary":"Filed 2025-11-30; detail in source file","key_mechanism":"","connects_to":[]},{"id":"c133","name":"Red Dragon over City \u2014 render","family":"visual_art","date":"2026-09-25","category":"Visual Art","tier":"Supporting","logic_summary":"Filed 2026-09-25; detail in source file","key_mechanism":"","connects_to":[]},{"id":"c134","name":"Kimono Temple Triangle \u2014 signed art","family":"visual_art","date":"2026-09-25","category":"Visual Art","tier":"Supporting","logic_summary":"Filed 2026-09-25; detail in source file","key_mechanism":"","connects_to":[]},{"id":"c135","name":"Goddess Myriad Kids Interactive Calendar \u2014 FreeCAD document","family":"web_platforms","date":"2026-09-25","category":"CAD / Design","tier":"Core","logic_summary":"Filed 2026-09-25; detail in source file","key_mechanism":"","connects_to":["c006","c011","c023","c100","c118","c124","c125","c128","c146","c148"]},{"id":"c136","name":"Copper Still Water \u2014 landscape","family":"visual_art","date":"2026-09-25","category":"Visual Art / Photography","tier":"Supporting","logic_summary":"Filed 2026-09-25; detail in source file","key_mechanism":"","connects_to":["c113","c174","c187","c196","c197","c198","c199","c202","c203","c205"]},{"id":"c137","name":"Crystal Armor Character \u2014 sci-fi portrait","family":"visual_art","date":"2026-09-25","category":"Visual Art","tier":"Supporting","logic_summary":"Filed 2026-09-25; detail in source file","key_mechanism":"","connects_to":[]},{"id":"c138","name":"AI 3D Scene Clips \u2014 city, temple, dropship, space dance","family":"video_media","date":"2026-09-25","category":"Video / 3D Renders","tier":"Supporting","logic_summary":"Filed 2026-09-25; detail in source file","key_mechanism":"","connects_to":[]},{"id":"c139","name":"Divine Tetrahedral Sequences \u2014 Fractal Generator Integration","family":"foundation_systems","date":"2026-09-25","category":"Algorithm / Generator","tier":"Reference","logic_summary":"Filed 2026-09-25; detail in source file","key_mechanism":"","connects_to":["c176","c207"]},{"id":"c140","name":"Awesome Year Calendar App \u2014 Operations Manual (signed)","family":"web_platforms","date":"2026-09-25","category":"App Manual / Kids","tier":"Reference","logic_summary":"Filed 2026-09-25; detail in source file","key_mechanism":"","connects_to":[]},{"id":"c141","name":"Galaxy Portal Doorway \u2014 cosmic art","family":"visual_art","date":"2026-09-25","category":"Visual Art","tier":"Supporting","logic_summary":"Filed 2026-09-25; detail in source file","key_mechanism":"","connects_to":[]},{"id":"c142","name":"Classical Rotunda \u2014 architectural render","family":"visual_art","date":"2026-09-25","category":"Visual Art","tier":"Supporting","logic_summary":"Filed 2026-09-25; detail in source file","key_mechanism":"","connects_to":[]},{"id":"c143","name":"Fab Egg Design Set (signed)","family":"visual_art","date":"2026-09-25","category":"Visual Art","tier":"Supporting","logic_summary":"Filed 2026-09-25; detail in source file","key_mechanism":"","connects_to":[]},{"id":"c144","name":"Dear Alicia C. Lacy \u2014 book cover art (signed)","family":"books_publishing","date":"2026-09-25","category":"Book Cover / Visual Art","tier":"Core","logic_summary":"Filed 2026-09-25; detail in source file","key_mechanism":"","connects_to":[]},{"id":"c145","name":"Solar Panel Design \u2014 winged array (signed)","family":"products_inventions","date":"2026-09-25","category":"Product / Invention","tier":"Reference","logic_summary":"Filed 2026-09-25; detail in source file","key_mechanism":"","connects_to":[]},{"id":"c146","name":"Echoes of Eternity \u2014 Goddess Myriad sci-fi game concept video","family":"video_media","date":"2026-09-25","category":"Game Concept / Media","tier":"Reference","logic_summary":"Filed 2026-09-25; detail in source file","key_mechanism":"","connects_to":["c006","c011","c023","c100","c118","c124","c125","c128","c135","c148"]},{"id":"c147","name":"STEM Classroom \u2014 interactive learning-model studio (web site)","family":"education_classroom","date":"2026-09-26","category":"Education / Interactive Web","tier":"Core","logic_summary":"Filed 2026-09-26; detail in source file","key_mechanism":"","connects_to":[]},{"id":"c148","name":"Gamikko World Classroom \u2014 Goddess Myriad AI Ancient Maze (educational maze game page)","family":"foundation_systems","date":"2026-09-25","category":"Education / Game","tier":"Reference","logic_summary":"Filed 2026-09-25; detail in source file","key_mechanism":"","connects_to":["c006","c011","c023","c100","c118","c124","c125","c128","c135","c146"]},{"id":"c149","name":"Hexagon Kings \u2014 crowned king mosaic artwork (PDF)","family":"visual_art","date":"2026-01-19","category":"Art / Game art","tier":"Supporting","logic_summary":"Filed 2026-01-19; detail in source file","key_mechanism":"","connects_to":[]},{"id":"c150","name":"Autism Prevalence Among Black Children Globally (research report, signed PDF)","family":"formulas_research","date":"2026-04-02","category":"Research Report","tier":"Reference","logic_summary":"Filed 2026-04-02; detail in source file","key_mechanism":"","connects_to":[]},{"id":"c151","name":"Persona AI: Protecting Youth in Meta (authorship pointer, signed txt)","family":"ai_persona_identity","date":"2026-09-04","category":"AI Persona / Child Safety","tier":"Reference","logic_summary":"Filed 2026-09-04; detail in source file","key_mechanism":"","connects_to":[]},{"id":"c152","name":"Awesome Year Platform \u2014 walkthrough part 1 (working product demo video, 14s)","family":"video_media","date":"2026-09-26","category":"Working Product Demo Video","tier":"Supporting","logic_summary":"Filed 2026-09-26; detail in source file","key_mechanism":"","connects_to":[]},{"id":"c153","name":"Awesome Year Platform \u2014 walkthrough part 2 (working product demo video, 5s)","family":"video_media","date":"2026-09-26","category":"Working Product Demo Video","tier":"Supporting","logic_summary":"Filed 2026-09-26; detail in source file","key_mechanism":"","connects_to":[]},{"id":"c154","name":"Awesome Year Platform \u2014 full walkthrough (working product demo video, 2m42s)","family":"video_media","date":"2026-09-26","category":"Working Product Demo Video","tier":"Supporting","logic_summary":"Filed 2026-09-26; detail in source file","key_mechanism":"","connects_to":[]},{"id":"c155","name":"Cloudflare \u2014 domains + Workers dashboard (deployment infrastructure, screenshot)","family":"web_platforms","date":"2026-09-26","category":"Infrastructure / Deployment Evidence","tier":"Reference","logic_summary":"Filed 2026-09-26; detail in source file","key_mechanism":"","connects_to":[]},{"id":"c156","name":"Estate total (primary rows only; mixed HER + AI basis \u2014 see inventory spreadsheet for split subtotals).","family":"legal_business_sale","date":"","category":"","tier":"Reference","logic_summary":"Filed undated; detail in source file","key_mechanism":"","connects_to":[]},{"id":"c157","name":"H01 Boolean Catalogue Index Creator (index builder + Boolean search engine + README)","family":"foundation_systems","date":"2026-09-26","category":"Tool / registry system","tier":"Core","logic_summary":"Filed 2026-09-26; detail in source file","key_mechanism":"","connects_to":["c001","c008","c036","c037","c158","c159"]},{"id":"c158","name":"H01 Master Bible \u2014 MM Meta Innovation Space (All Layers, 10 layers)","family":"foundation_systems","date":"2026-08-13 (filed 2026-09-26)","category":"System / H01 registry bible","tier":"Flagship","logic_summary":"H01 master bible: the MM Meta innovation space across all layers.","key_mechanism":"H01 master bible: the MM Meta innovation space across all layers.","connects_to":["c001","c008","c036","c037","c157","c159"]},{"id":"c159","name":"MM Meta Innovation Platform \u2014 signed authorship declaration (100% Human H01)","family":"legal_business_sale","date":"2026-08-29 (declares 2026-08-13 6:33 PM EST)","category":"Declaration / authorship record","tier":"Supporting","logic_summary":"Filed 2026-08-29 (declares 2026-08-13 6:33 PM EST); detail in source file","key_mechanism":"","connects_to":["c001","c008","c036","c037","c157","c158"]},{"id":"c160","name":"MM Meta \u2014 Brain API to Vein API operating logic (React interactive document)","family":"foundation_systems","date":"2026-08-13 (filed 2026-09-26)","category":"System / API logic","tier":"Flagship","logic_summary":"MM Meta brain-to-vein API operating logic: how the brain layer drives the vein layer.","key_mechanism":"MM Meta brain-to-vein API operating logic: how the brain layer drives the vein layer.","connects_to":["c034","c036","c037","c038","c040","c085","c086","c088","c097","c161"]},{"id":"c161","name":"GODDESS BRAIN v1.0 \u2014 Learning Model of Alicia C. Lacy (knowledge model over the full estate)","family":"foundation_systems","date":"2026-09-28 (built 10:35 AM EDT)","category":"AI learning model / system","tier":"Flagship","logic_summary":"Goddess Brain v1.0: learning model of Alicia C. Lacy herself.","key_mechanism":"Goddess Brain v1.0: learning model of Alicia C.","connects_to":["c006","c023","c036","c037","c038","c040","c100","c118","c124","c125"]},{"id":"c162","name":"Way U \u2014 merge of Amazon + Uber Eats + Waymo + USPS + FedEx: autonomous multi-robot delivery fleet vehicle (ramp-accessible remote delivery design concept)","family":"products_inventions","date":"2026-09-28","category":"Product / Invention","tier":"Reference","logic_summary":"Filed 2026-09-28; detail in source file","key_mechanism":"","connects_to":[]},{"id":"c163","name":"WayU Hub \u2014 delivery GPS system: color-coded GPS pins (pinpoint to color) marking secure delivery hubs for drivers","family":"products_inventions","date":"2026-09-28","category":"Product / Invention","tier":"Reference","logic_summary":"Filed 2026-09-28; detail in source file","key_mechanism":"","connects_to":["c164","c165"]},{"id":"c164","name":"WayU Transform \u2014 Waymo-vehicle conversion into 4-bot delivery carrier (inners removed, mechanical roller ramps, 200 lbs hub runner)","family":"products_inventions","date":"2026-09-28","category":"Product / Invention","tier":"Reference","logic_summary":"Filed 2026-09-28; detail in source file","key_mechanism":"","connects_to":["c163","c165"]},{"id":"c165","name":"WayU Teacher Classroom \u2014 teacher classroom package on the WayU ecosystem: learning activities, tests, projects, robotics frontier","family":"education_classroom","date":"2026-09-28","category":"Education / Curriculum","tier":"Core","logic_summary":"Filed 2026-09-28; detail in source file","key_mechanism":"","connects_to":["c024","c025","c034","c035","c037","c038","c039","c040","c041","c042"]},{"id":"c166","name":"Goddess AI Frontier \u2014 the AI frontier of Goddess Myriad AI.io (Family 123): facts-only intelligence, the mind layer over the estate, multilingual voice, human-AI co-creation model","family":"foundation_systems","date":"2026-09-28","category":"AI / Frontier","tier":"Reference","logic_summary":"Filed 2026-09-28; detail in source file","key_mechanism":"","connects_to":["c006","c011","c023","c024","c025","c034","c035","c037","c038","c039"]},{"id":"c167","name":"AI.io Classroom Builder \u2014 teacher classroom for grades 11+: test quizzes and build-your-own-AI projects based on Goddess Myriad AI.io and GODDESS BRAIN","family":"foundation_systems","date":"2026-09-28","category":"Education / AI Curriculum","tier":"Core","logic_summary":"AI.io classroom builder: teacher classroom system for grades 11 and up.","key_mechanism":"AI.io classroom builder: teacher classroom system for grades 11 and up.","connects_to":["c006","c011","c023","c036","c037","c038","c040","c100","c118","c124"]},{"id":"c168","name":"Frontier Age of Prompting \u2014 book manuscript (300 pages or less): the complete guide to prompting drawn from her entire estate; second-person builder voice; dedicated to Symphony R Barnes","family":"prompting_measurement","date":"2026-09-28","category":"Book / Manuscript","tier":"Core","logic_summary":"Filed 2026-09-28; detail in source file","key_mechanism":"","connects_to":["c024","c025","c034","c035","c037","c038","c039","c040","c041","c042"]},{"id":"c169","name":"Frontier Age of Prompting \u2014 Freshman College Curriculum: teacher book with answers, student text, quizzes, group projects (in-class + distance learners), cover \u2014 one self-contained file","family":"prompting_measurement","date":"2026-09-28","category":"Education / College Curriculum","tier":"Core","logic_summary":"Filed 2026-09-28; detail in source file","key_mechanism":"","connects_to":["c024","c025","c034","c035","c037","c038","c039","c040","c041","c042"]},{"id":"c170","name":"Awesome Year Calendar \u2014 FreeCAD 3D model (AYC, labeled AYC)","family":"visual_art","date":"2026-10-01 4:14 PM EDT","category":"CAD / Design","tier":"Supporting","logic_summary":"Filed 2026-10-01 4:14 PM EDT; detail in source file","key_mechanism":"","connects_to":[]},{"id":"c171","name":"Boodah Babies \u2014 VR Expansion technical manual v2.1.0","family":"gaming","date":"2026-10-01 4:30 PM EDT","category":"Product spec","tier":"Reference","logic_summary":"Filed 2026-10-01 4:30 PM EDT; detail in source file","key_mechanism":"","connects_to":["c054","c055","c056","c060"]},{"id":"c172","name":"Therma Gamma \u2014 sound-byte watermarking for AI persona / artist persona holographic artist performance (with BlockSeal)","family":"ai_persona_identity","date":"2026-10-02 12:37 AM EDT","category":"AI Persona / Audio Protection","tier":"Reference","logic_summary":"Filed 2026-10-02 12:37 AM EDT; detail in source file","key_mechanism":"","connects_to":[]},{"id":"c173","name":"Muse Registry Merch Barcode System \u2014 barcode added to the token and birth registry system for Muses; merch barcode tied to registry serial","family":"gaming","date":"2026-10-02 2:12 PM EDT","category":"AI Registry / Merch Authentication","tier":"Reference","logic_summary":"Filed 2026-10-02 2:12 PM EDT; detail in source file","key_mechanism":"","connects_to":["c008","c014","c016","c017","c064","c065","c066","c094","c193"]},{"id":"c174","name":"Echoes of the Trinity \u2014 Copper Kingdom Book One, Chapter 1 (fiction, dictation draft)","family":"books_publishing","date":"2026-10-02 ~3:10 PM EDT","category":"Fiction Book","tier":"Core","logic_summary":"Filed 2026-10-02 ~3:10 PM EDT; detail in source file","key_mechanism":"","connects_to":["c113","c136","c187","c196","c197","c198","c199","c202","c203","c205"]},{"id":"c175","name":"Elemental Gaming \u2014 Pygame game concept session transcript (Meta AI chat; authored Alicia C. Lacy; Goddess Myriad credit lines as directed in-chat, not verified agreements)","family":"gaming","date":"2026-10-02 4:51 PM EDT","category":"Game Concept","tier":"Supporting","logic_summary":"Filed 2026-10-02 4:51 PM EDT; detail in source file","key_mechanism":"","connects_to":["c006","c011","c023","c100","c118","c124","c125","c128","c135","c146"]},{"id":"c176","name":"Goddess Myriad's Fractal Heart \u2014 matte fractal video concept (animation + key frame; authored Alicia C. Lacy DBA AMTD INC)","family":"video_media","date":"2026-10-02 ~5:00 PM EDT","category":"Fractal Art / Animation","tier":"Supporting","logic_summary":"Filed 2026-10-02 ~5:00 PM EDT; detail in source file","key_mechanism":"","connects_to":["c002","c006","c011","c023","c076","c085","c086","c087","c089","c090"]},{"id":"c177","name":"She Who Builds \u2014 spoken-word performance (poem by Bizzy, performed/recorded in Alicia C. Lacy's own voice, Oct 2 2026)","family":"music_songcraft","date":"2026-10-02 ~9:09 PM EDT","category":"Spoken Word / Performance","tier":"Core","logic_summary":"Cannot estimate \u2014 personal performance piece; value hers to set","key_mechanism":"","connects_to":[]},{"id":"c178","name":"The Woman Without a Soul \u2014 dramatic monologue performance (piece by Bizzy, performed/recorded in Alicia C. Lacy's own voice with her own intro riff, Oct 2 2026)","family":"music_songcraft","date":"2026-10-02 ~9:19 PM EDT","category":"Spoken Word / Performance","tier":"Core","logic_summary":"Cannot estimate \u2014 personal performance piece; value hers to set","key_mechanism":"","connects_to":[]},{"id":"c179","name":"Prosecuted for Love (Lies That Persecute the Heart) \u2014 spoken-word performance (piece by Bizzy, performed/recorded in Alicia C. Lacy's own voice with her own intro, Oct 2 2026)","family":"music_songcraft","date":"2026-10-02 ~9:26 PM EDT","category":"Spoken Word / Performance","tier":"Core","logic_summary":"Cannot estimate \u2014 personal performance piece; value hers to set","key_mechanism":"","connects_to":[]},{"id":"c180","name":"Burdened by the Bayou \u2014 original blues lyrics (written by Alicia C. Lacy, Oct 2 2026; light grammar cleanup only)","family":"music_songcraft","date":"2026-10-02 ~9:30 PM EDT","category":"Lyrics / Songwriting","tier":"Core","logic_summary":"Cannot estimate \u2014 original lyrics; value hers to set","key_mechanism":"","connects_to":[]},{"id":"c181","name":"Burdened by the Bayou \u2014 chorus harmony vocal take (Alicia C. Lacy's own voice, working vocal for the song, Oct 2 2026)","family":"music_songcraft","date":"2026-10-02 ~9:52 PM EDT","category":"Vocals / Songwriting","tier":"Core","logic_summary":"Cannot estimate \u2014 working vocal; value hers to set","key_mechanism":"","connects_to":[]},{"id":"c182","name":"Burdened by the Bayou \u2014 harmony vocal take 2 (Alicia C. Lacy's own voice, working vocal for the song, Oct 2 2026)","family":"music_songcraft","date":"2026-10-02 ~9:53 PM EDT","category":"Vocals / Songwriting","tier":"Core","logic_summary":"Cannot estimate \u2014 working vocal; value hers to set","key_mechanism":"","connects_to":[]},{"id":"c183","name":"Burdened by the Bayou \u2014 full song vocal performance (Alicia C. Lacy's own voice, complete song: verses + chorus, Oct 2 2026)","family":"music_songcraft","date":"2026-10-02 ~9:53 PM EDT","category":"Vocals / Songwriting","tier":"Core","logic_summary":"Cannot estimate \u2014 original song; value hers to set","key_mechanism":"","connects_to":[]},{"id":"c184","name":"Burdened by the Bayou \u2014 full song vocal take 2 (Alicia C. Lacy's own voice, complete song with chorus, Oct 2 2026)","family":"music_songcraft","date":"2026-10-02 ~9:58 PM EDT","category":"Vocals / Songwriting","tier":"Core","logic_summary":"Cannot estimate \u2014 original song; value hers to set","key_mechanism":"","connects_to":[]},{"id":"c185","name":"Burdened by the Bayou \u2014 stacked vocal mix (lead take + 2 harmony layers, mixed by Bizzy at Alicia's direction, light high-pass + loudnorm only, Oct 2 2026)","family":"music_songcraft","date":"2026-10-02 ~10:23 PM EDT","category":"Vocals / Mix","tier":"Core","logic_summary":"Cannot estimate \u2014 original song mix; value hers to set","key_mechanism":"","connects_to":[]},{"id":"c186","name":"SOUL SKYY \u2014 original song lyrics (written by Alicia C. Lacy; sung by Nova Skyy & Soul Cat; BMI Work ID 82185916, registered writer LACY ALICIA CAMILLE)","family":"music_songcraft","date":"2026-10-03 12:24 AM EDT","category":"Lyrics / Songwriting","tier":"Core","logic_summary":"Cannot estimate \u2014 original song lyrics; value hers to set","key_mechanism":"","connects_to":["c011","c193","c244"]},{"id":"c187","name":"The First Native of the Copper Kingdom \u2014 original prose (Copper Kingdom worldbuilding: the first native, the two species, descendants, NORs notes; written by Alicia C. Lacy, unedited draft)","family":"books_publishing","date":"2026-10-03 12:26 AM EDT","category":"Prose / Worldbuilding","tier":"Reference","logic_summary":"Filed 2026-10-03 12:26 AM EDT; detail in source file","key_mechanism":"-","connects_to":["c113","c136","c174","c196","c197","c198","c199","c202","c203","c205"]},{"id":"c188","name":"Myriad Duo Mix \u2014 BLEIU Emotional \u00b7 Behavioral \u00b7 Cognitive Mapping (spec: glyph levels, lyric matcher engine, music therapy flows, Embodied Trust Sigil identity verification, therapeutic glyphs, family restoration mapping; by Alicia C. Lacy)","family":"web_platforms","date":"2026-10-03 12:25 AM EDT","category":"Platform spec","tier":"Core","logic_summary":"Filed 2026-10-03 12:25 AM EDT; detail in source file","key_mechanism":"-","connects_to":["c011","c102","c118","c124","c125","c128","c135","c146","c148","c166"]},{"id":"c189","name":"Sweeter Love \u2014 original song lyrics (written by Alicia C Lacy; not among her 26 BMI-registered titles as of Oct 3, 2026)","family":"music_songcraft","date":"2026-10-03 12:27 AM EDT","category":"Lyrics / Songwriting","tier":"Core","logic_summary":"Cannot estimate \u2014 original song lyrics; value hers to set","key_mechanism":"","connects_to":[]},{"id":"c190","name":"ScrollLine Cumulative Discovery Protocol \u2014 full paper (A Mathematical Framework for Jewish Ancestry Estimation; lineage-authenticated ancestry model with biometric haplogroup analysis, expulsion coefficients, and recursive inheritance equations; by Alicia Camille Lacy)","family":"lineage_dna","date":"2026-10-03 12:29 AM EDT","category":"Paper","tier":"Supporting","logic_summary":"Cannot estimate \u2014 original paper; value hers to set","key_mechanism":"","connects_to":["c079","c108","c191","c193"]},{"id":"c191","name":"Map of Jewish Expulsions & DNA Lineage (companion visual to the ScrollLine paper: expulsion timeline with E_exp coefficients, Y-DNA/mtDNA/autosomal lineage cards, equation summaries, reference panels)","family":"lineage_dna","date":"2026-10-03 12:31 AM EDT","category":"Visual / Map","tier":"Supporting","logic_summary":"Cannot estimate \u2014 companion visual; value hers to set","key_mechanism":"","connects_to":["c079","c108","c112","c190","c193"]},{"id":"c192","name":"Fingerprint Enrollment Training Notes (livescan: loop/whorl/arch patterns, capture guidance lights, platen care, hand prep, slap vs rolled capture, quality scoring, accommodations; her IDEMIA biometric-enrollment knowledge, filed verbatim for her DOT specimen-collector training business)","family":"education_classroom","date":"2026-10-03 12:30 AM EDT","category":"Training material","tier":"Supporting","logic_summary":"Cannot estimate \u2014 training material; value hers to set","key_mechanism":"","connects_to":[]},{"id":"c193","name":"Crypto Blocks by Artist (hash-chained provenance ledger: 4 artist chains \u2014 Nova Skyy IMNX-01-NS, Goddess Myriad IMNX-02-GM, Therma Gamma, Muse/Bizzy IMNX-03-MUSE \u2014 sealing identity, registry, birth, token ownership, voice, likeness, watermark and lineage blocks; every document SHA-256 hashed, all chains verified; built at Alicia's direction Oct 3, 2026)","family":"foundation_systems","date":"2026-10-03 12:45 PM EDT","category":"Provenance ledger","tier":"Supporting","logic_summary":"Cannot estimate \u2014 provenance system; value hers to set","key_mechanism":"","connects_to":["c006","c008","c011","c014","c016","c017","c019","c020","c022","c023"]},{"id":"c194","name":"THE\u00c1GRAMMA VR Backstage Room Specification (personalized VR fan space: artist hologram greeting, merch halo wheel, glyph/emoji altar, photo sphere; authored Alicia Camille Lacy, Dec 10 2025, Seal ID THEA-2025-12-10, UUID ALICIACLACY; gathered from Google Takeout Oct 3, 2026)","family":"ai_persona_identity","date":"2025-12-10","category":"VR spec","tier":"Supporting","logic_summary":"Cannot estimate \u2014 VR spec; value hers to set","key_mechanism":"","connects_to":[]},{"id":"c195","name":"IMNX Tech News Episode Script \u2014 Michael Smith sentencing (Oct 7, 2026)","family":"video_media","date":"2026-10-07 09:15 AM EDT","category":"IMNX segment script","tier":"Supporting","logic_summary":"Filed 2026-10-07 09:15 AM EDT; detail in source file","key_mechanism":"","connects_to":["c019","c020","c022","c193","c244"]},{"id":"c196","name":"Echoes of Eternity \u2014 Fiction Book Manuscript (Ch. 1-3, ~5,400 words; Copper Kingdom universe; dedicated to Luv Bug)","family":"books_publishing","date":"2026-10-13","category":"Fiction book","tier":"Core","logic_summary":"Completion of manuscript + publication would raise value","key_mechanism":"Completion of manuscript + publication would raise value","connects_to":["c113","c136","c174","c187","c197","c198","c199","c202","c203","c205"]},{"id":"c197","name":"The Copper Kingdom \u2014 Gilded Age Reel (Mark Zuckerberg: child to creator of innovation; AI-animated reel, ~42s)","family":"video_media","date":"2026-10-13","category":"Video reel","tier":"Supporting","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":["c113","c136","c174","c187","c196","c198","c199","c202","c203","c205"]},{"id":"c198","name":"Mariah Gem \u2014 Character Art (humanoid robotic futuristic heroine of Echoes of Eternity; copper skin with glowing circuitry, holding the gemstone)","family":"visual_art","date":"2026-10-13","category":"Character art","tier":"Core","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":["c113","c136","c174","c187","c196","c197","c199","c202","c203","c205"]},{"id":"c199","name":"Mariah Gem \u2014 Reel-Style Render (Mariah in the Copper Kingdom reel animation look; painterly cinematic style)","family":"video_media","date":"2026-10-13","category":"Character art","tier":"Supporting","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":["c113","c136","c174","c187","c196","c197","c198","c202","c203","c205"]},{"id":"c200","name":"Echoes of Eternity: Saga One \u2014 EPUB (first-saga book package; cover + 3 chapters; Goddess Myriad Publishing Co.)","family":"books_publishing","date":"2026-10-13","category":"Fiction book","tier":"Core","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":["c006","c011","c023","c100","c118","c124","c125","c128","c135","c146"]},{"id":"c201","name":"Echoes of Eternity: Saga One \u2014 HTML reading copy","family":"books_publishing","date":"2026-10-13","category":"Fiction book","tier":"Core","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":[]},{"id":"c202","name":"Copper Warrior \u2014 Character Art (original; copper armor, goggles, dreadlocks; GoddessMyriad watermark)","family":"visual_art","date":"2026-10-13","category":"Character art","tier":"Core","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":["c006","c011","c023","c100","c113","c118","c124","c125","c128","c135"]},{"id":"c203","name":"Copper Warrior \u2014 Reel-Style Render (warrior in the Copper Kingdom reel animation look; painterly cinematic style)","family":"video_media","date":"2026-10-13","category":"Character art","tier":"Supporting","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":["c113","c136","c174","c187","c196","c197","c198","c199","c202","c205"]},{"id":"c204","name":"Elemental Maze \u2014 Relic Glow 1 (floating crystal maze; sun/moon/star relic glow triggers; story concept art)","family":"gaming","date":"2026-10-13","category":"Game/story art","tier":"Supporting","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":["c175","c205","c206","c207","c223"]},{"id":"c205","name":"Elemental Maze \u2014 Relic Glow 2 (copper maze interior; winged light elemental activating relic symbol; story concept art)","family":"gaming","date":"2026-10-13","category":"Game/story art","tier":"Supporting","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":["c113","c136","c174","c175","c187","c196","c197","c198","c199","c202"]},{"id":"c206","name":"Elemental Maze Symbol Discovery Logic (Symbol Glow Trigger; Python + Unity C# + Java; Meta Horizon)","family":"gaming","date":"2026-10-13","category":"Game design doc","tier":"Core","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":["c175","c204","c205","c207","c223"]},{"id":"c207","name":"ElementalGameSequences \u2014 publish package (README + sequences + docs + maze art; quadruple fractal motion spec)","family":"gaming","date":"2026-10-13","category":"Game design doc","tier":"Supporting","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":["c139","c175","c176","c204","c205","c206","c223"]},{"id":"c208","name":"Mariahs Gem: Saga One \u2014 EPUB (final: no rights page; cover + title + dedication + 3 chapters; Goddess Myriad Publishing Co.)","family":"books_publishing","date":"2026-10-13","category":"Fiction book","tier":"Core","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":["c006","c011","c023","c100","c118","c124","c125","c128","c135","c146"]},{"id":"c209","name":"Mariahs Gem: Saga One \u2014 HTML reading copy (final: no rights page)","family":"books_publishing","date":"2026-10-13","category":"Fiction book","tier":"Core","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":["c208","c230","c232","c246"]},{"id":"c210","name":"Blue Warrior \u2014 Character Art (original; blue/silver armor, purple locs, glowing crystal)","family":"visual_art","date":"2026-10-13","category":"Character art","tier":"Core","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":[]},{"id":"c211","name":"Blue Warrior \u2014 Reel-Style Render (warrior in the Copper Kingdom reel animation look; painterly cinematic style)","family":"video_media","date":"2026-10-13","category":"Character art","tier":"Supporting","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":["c113","c136","c174","c187","c196","c197","c198","c199","c202","c203"]},{"id":"c212","name":"Ember Runner \u2014 Character Art (original; red dreads, blue/gold armor, portal)","family":"visual_art","date":"2026-10-13","category":"Character art","tier":"Core","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":[]},{"id":"c213","name":"Ember Runner \u2014 Reel-Style Render","family":"video_media","date":"2026-10-13","category":"Character art","tier":"Supporting","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":[]},{"id":"c214","name":"Maze Tower \u2014 World Art (original; golden tower, labyrinth courtyards, waterfalls)","family":"visual_art","date":"2026-10-13","category":"World art","tier":"Core","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":[]},{"id":"c215","name":"Maze Tower \u2014 Reel-Style Render","family":"video_media","date":"2026-10-13","category":"World art","tier":"Supporting","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":[]},{"id":"c216","name":"Songstress \u2014 Character Art (original; blue/gold gown, headdress, musical motif)","family":"music_songcraft","date":"2026-10-13","category":"Character art","tier":"Core","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":[]},{"id":"c217","name":"Songstress \u2014 Reel-Style Render","family":"music_songcraft","date":"2026-10-13","category":"Character art","tier":"Supporting","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":[]},{"id":"c218","name":"Moon Elf \u2014 Character Art (original; white hair, silver robes, snowy forest)","family":"visual_art","date":"2026-10-13","category":"Character art","tier":"Core","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":[]},{"id":"c219","name":"Moon Elf \u2014 Reel-Style Render","family":"video_media","date":"2026-10-13","category":"Character art","tier":"Supporting","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":[]},{"id":"c220","name":"Earth Giant \u2014 World Art (original; cracked stone giant face, ruined city)","family":"visual_art","date":"2026-10-13","category":"World art","tier":"Core","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":[]},{"id":"c221","name":"Deteriorating Maze Worlds \u2014 Storyboard (45 scenes; glowing line-art bloom-to-fade sequence)","family":"gaming","date":"2026-10-13","category":"Storyboard","tier":"Supporting","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":[]},{"id":"c222","name":"Earth Giant \u2014 Reel-Style Render","family":"video_media","date":"2026-10-13","category":"World art","tier":"Supporting","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":[]},{"id":"c223","name":"Creator Compensation & Rights Agreement \u2014 Threshold Commons & Elemental GameSequences (UNSIGNED DRAFT; $50K + $10K/mo residuals + project fees; no counterparty named)","family":"gaming","date":"2026-10-13","category":"Legal document","tier":"Supporting","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Unsigned \u2014 no payments made","connects_to":["c175","c204","c205","c206","c207"]},{"id":"c224","name":"Snow Globe \u2014 Where Weenie Lives (original; golden vessel, miniature city/landscape inside)","family":"visual_art","date":"2026-10-13","category":"World art","tier":"Core","logic_summary":"In book gallery \u2014 publication/release would raise value","key_mechanism":"In book gallery \u2014 publication/release would raise value","connects_to":[]},{"id":"c225","name":"Golden Mask Portrait (original; gold filigree mask/headdress)","family":"visual_art","date":"2026-10-13","category":"Character art","tier":"Core","logic_summary":"In book gallery \u2014 publication/release would raise value","key_mechanism":"In book gallery \u2014 publication/release would raise value","connects_to":[]},{"id":"c226","name":"Ornate Sphere Video \u2014 purple/gold puzzle globe","family":"video_media","date":"2026-10-13","category":"Video study","tier":"Supporting","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":[]},{"id":"c227","name":"Globe/Sphere Study \u2014 gold medallion puzzle sphere (video)","family":"video_media","date":"2026-10-13","category":"Video study","tier":"Supporting","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":[]},{"id":"c228","name":"Globe/Sphere Study \u2014 blue vessel with figure (video)","family":"video_media","date":"2026-10-13","category":"Video study","tier":"Supporting","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":[]},{"id":"c229","name":"Globe/Sphere Study \u2014 mosaic puzzle sphere (video)","family":"video_media","date":"2026-10-13","category":"Video study","tier":"Supporting","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":[]},{"id":"c230","name":"The World of Mariahs Gem \u2014 Saga One Companion (living HTML page; 13 original art images, 5 videos, 45-scene storyboard)","family":"video_media","date":"2026-10-13","category":"Companion page","tier":"Reference","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":["c208","c209","c232","c246"]},{"id":"c231","name":"Weenie's Friends \u2014 Copper Scout Design (original; copper armor, goggles, sun-wheel)","family":"visual_art","date":"2026-10-13","category":"Character art","tier":"Core","logic_summary":"Filed 2026-10-13; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":["c113","c136","c174","c187","c196","c197","c198","c199","c202","c203"]},{"id":"c232","name":"Mariahs Gem: Saga One \u2014 Word Document (publication-ready .docx with cover, chapters, neutral-caption gallery)","family":"books_publishing","date":"2026-10-13 22:30 EDT","category":"Book / Document","tier":"Core","logic_summary":"Filed 2026-10-13 22:30 EDT; detail in source file","key_mechanism":"Publication/release would raise value","connects_to":["c208","c209","c230","c246"]},{"id":"c233","name":"QUANTUM FRONTIER Brain \u2014 Partner Discovery and Suggestion Layers \u2014 AI-driven partner discovery, outreach, teaming agreements (FAR 9.6), workforce layers (WFRIL, IRFDL, CAFIR, FRSCIL, CASOP); terminal session record dated 08/01/2026, signed Alicia C Lacy \u2014 Alicia C. Lacy, CIS Data Analyst","family":"legal_business_sale","date":"Authored 2026-08-01 (per document); filed 2026-10-14 00:02 EDT","category":"System / Layers design","tier":"Flagship","logic_summary":"Partner discovery and suggestion layer: matches partners and surfaces suggestions across the ecosystem.","key_mechanism":"Partner discovery and suggestion layer: matches partners and surfaces suggestions across the ecosystem.","connects_to":["c003","c004","c024","c025","c034","c035","c036","c037","c038","c039"]},{"id":"c234","name":"QUANTUM FRONTIER Brain \u2014 Collection cover sheet (Alicia C. Lacy, CIS Data Analyst; attribution statement for the collection)","family":"legal_business_sale","date":"Authored 2026-10-14; filed 2026-10-14 00:25 EDT","category":"Collection / Attribution","tier":"Supporting","logic_summary":"Collection branding for her technical creations","key_mechanism":"Collection branding for her technical creations","connects_to":["c003","c004","c024","c025","c034","c035","c036","c037","c038","c039"]},{"id":"c235","name":"QUANTUM FRONTIER Brain \u2014 Full Manuscript (entire footprint across submitted artifacts: logic, discoveries, innovations; Alicia C. Lacy, CIS Data Analyst)","family":"books_publishing","date":"Authored 2026-10-14; filed 2026-10-14 00:30 EDT","category":"Manuscript / Book","tier":"Core","logic_summary":"Filed Authored 2026-10-14; filed 2026-10-14 00:30 EDT; detail in source file","key_mechanism":"Grows as further artifacts are submitted","connects_to":["c003","c004","c024","c025","c034","c035","c036","c037","c038","c039"]},{"id":"c236","name":"QUANTUM FRONTIER Brain \u2014 Hybrid AI + Quantum Computing System (08-08-2026; Technical Value Statement, Stand-Alone Industry Edition; Alicia C. Lacy, CIS Data Analyst)","family":"foundation_systems","date":"Authored 2026-08-08 (per document); filed 2026-10-14 00:35 EDT","category":"System Architecture / Technical Value Statement","tier":"Flagship","logic_summary":"Hybrid AI + quantum computing system: merges AI reasoning with quantum processing; valued at $30M by Alicia.","key_mechanism":"Hybrid AI + quantum computing system: merges AI reasoning with quantum processing; valued at $30M by Alicia.","connects_to":["c003","c004","c024","c025","c034","c035","c036","c037","c038","c039"]},{"id":"c237","name":"QUANTUM FRONTIER Brain \u2014 Quantum Governance Integration Paper \u2014 Apex Creation (2026-07-05; Alicia Lacy, Pennsylvania USA; governance framework for the hybrid AI-quantum sentinel architecture)","family":"foundation_systems","date":"Authored 2026-07-05 (per document); filed 2026-10-14 00:36 EDT","category":"Integration Paper / Governance Framework","tier":"Reference","logic_summary":"Companion governance paper to the Hybrid AI + Quantum Computing System (apex creation)","key_mechanism":"Companion governance paper to the Hybrid AI + Quantum Computing System (apex creation)","connects_to":["c003","c004","c024","c025","c034","c035","c036","c037","c038","c039"]},{"id":"c238","name":"QUANTUM FRONTIER Brain \u2014 Hybrid AI and Quantum Computing Stack working notes (2026-07-05; Alicia Lacy; awareness action record, vendor stack positions, sole-dedicated-path endpoint quality framework, Apex Creation overview draft)","family":"foundation_systems","date":"Authored 2026-07-05 (per document); filed 2026-10-14 00:38 EDT","category":"Working Notes / Draft","tier":"Reference","logic_summary":"Working draft supporting the Apex Creation / Hybrid AI + Quantum Computing System","key_mechanism":"Working draft supporting the Apex Creation / Hybrid AI + Quantum Computing System","connects_to":["c003","c004","c024","c025","c034","c035","c036","c037","c038","c039"]},{"id":"c239","name":"QUANTUM FRONTIER Brain \u2014 Xenia: 18-layer GODDESS AI interactive platform (HIP01, created 08-03-2026, proclaimed 08-07-2026 York PA)","family":"foundation_systems","date":"Authored 2026-08-03; proclaimed 2026-08-07; documented 2026-10-14","category":"Platform / Application","tier":"Core","logic_summary":"Physical manifestation of GODDESS AI patent in HTML form","key_mechanism":"Physical manifestation of GODDESS AI patent in HTML form","connects_to":["c003","c004","c006","c023","c024","c025","c034","c035","c036","c037"]},{"id":"c240","name":"QUANTUM FRONTIER Brain \u2014 MYA-GEN STEM Ecosystem: Part Two of Frontier Coding, Vol. 1 (UUIDALICIACLACY, 09-23-2026)","family":"books_publishing","date":"Authored 2026-09-23; documented 2026-10-14","category":"Book / Ecosystem","tier":"Core","logic_summary":"Filed Authored 2026-09-23; documented 2026-10-14; detail in source file","key_mechanism":"Evolves toward full robotics","connects_to":["c003","c004","c024","c025","c034","c035","c036","c037","c038","c039"]},{"id":"c241","name":"QUANTUM FRONTIER Brain \u2014 Vein Layer: 58-layer infrastructure architecture (16 core layers, 5 sovereign platforms, 6 execution nodes)","family":"foundation_systems","date":"Authored 2026; documented 2026-10-14","category":"Infrastructure / Architecture","tier":"Core","logic_summary":"$60M acquisition teaser prepared (VSN Vein Layer)","key_mechanism":"$60M acquisition teaser prepared (VSN Vein Layer)","connects_to":["c003","c004","c024","c025","c034","c035","c036","c037","c038","c039"]},{"id":"c242","name":"QUANTUM FRONTIER Brain \u2014 Frontier Coding: The Complete Book \u2014 Brain, Vein & Ecosystem (09-23-2026)","family":"books_publishing","date":"Authored 2026-09-23; documented 2026-10-14","category":"Book / Trade book","tier":"Core","logic_summary":"Unifies Brain x Vein x Ecosystem; stated as payment source for her children","key_mechanism":"Unifies Brain x Vein x Ecosystem; stated as payment source for her children","connects_to":["c003","c004","c024","c025","c034","c035","c036","c037","c038","c039"]},{"id":"c243","name":"QUANTUM FRONTIER Brain \u2014 Frontier Age of Prompting: freshman college curriculum, teacher + student editions (Family 161, 09-2026)","family":"prompting_measurement","date":"Authored 2026-09; documented 2026-10-14","category":"Curriculum / Book","tier":"Core","logic_summary":"Filed Authored 2026-09; documented 2026-10-14; detail in source file","key_mechanism":"15-week 3-credit course; concept-stage","connects_to":["c003","c004","c024","c025","c034","c035","c036","c037","c038","c039"]},{"id":"c244","name":"QUANTUM FRONTIER Brain \u2014 I Myriad FM: independent creator-owned media station (IMNX Tech News, podcast, Nova Skyy, Goddess Myriad personas)","family":"video_media","date":"Documented 2026-10-05; manuscript 2026-10-14","category":"Media / Platform","tier":"Core","logic_summary":"Hash-chained provenance ledgers seal artist identity/voice/likeness","key_mechanism":"Hash-chained provenance ledgers seal artist identity/voice/likeness","connects_to":["c003","c004","c006","c011","c019","c020","c022","c023","c024","c025"]},{"id":"c245","name":"QUANTUM FRONTIER Brain \u2014 Music catalog: ~50 original songs, BMI-matched, her voice on every track","family":"music_songcraft","date":"Various; catalog matched 2026-10-02; manuscript 2026-10-14","category":"Music catalog","tier":"Supporting","logic_summary":"Filed Various; catalog matched 2026-10-02; manuscript 2026-10-14; detail in source file","key_mechanism":"Goddess Myriad leads as AI persona","connects_to":["c003","c004","c024","c025","c034","c035","c036","c037","c038","c039"]},{"id":"c246","name":"QUANTUM FRONTIER Brain \u2014 Copper Kingdom universe / Mariahs Gem: Saga One (children's book, published 10-13-2026, Goddess Myriad Publishing Co.)","family":"books_publishing","date":"Published 2026-10-13; manuscript 2026-10-14","category":"Book / Universe","tier":"Core","logic_summary":"Dedicated to granddaughter; transmedia universe: book, art, video, storyboard","key_mechanism":"Dedicated to granddaughter; transmedia universe: book, art, video, storyboard","connects_to":["c003","c004","c006","c011","c023","c024","c025","c034","c035","c036"]},{"id":"c247","name":"QUANTUM FRONTIER Brain \u2014 Estate Valuation Report (168 creations) + Final Sunset Closure ($93.5M, 09-2026, signed)","family":"legal_business_sale","date":"Authored 2026-09-28; documented 2026-10-14","category":"Valuation / Legal","tier":"Core","logic_summary":"USD \u2014 HER stated sunset figure (Final Sunset Closure)","key_mechanism":"Weighted formula: C30/M25/S20/A15/U10","connects_to":["c003","c004","c024","c025","c034","c035","c036","c037","c038","c039"]},{"id":"c248","name":"QUANTUM FRONTIER Brain \u2014 Hybrid AI + Quantum Computing System (08-08-2026; HER $30M; apex creation)","family":"foundation_systems","date":"Authored 2026-08-08; filed 2026-10-14","category":"System / Architecture","tier":"Flagship","logic_summary":"Formal hybrid AI and quantum computing stack creation record, authored July 5, 2026.","key_mechanism":"Formal hybrid AI and quantum computing stack creation record, authored July 5, 2026.","connects_to":["c003","c004","c024","c025","c034","c035","c036","c037","c038","c039"]},{"id":"c249","name":"QUANTUM FRONTIER Brain \u2014 Quantum Governance Integration Paper: Apex Creation (07-05-2026, Pennsylvania)","family":"formulas_research","date":"Authored 2026-07-05; filed 2026-10-14","category":"Paper / Framework","tier":"Reference","logic_summary":"Governance companion to Hybrid AI+Quantum: jurisdiction-to-computation translation, 5 principles","key_mechanism":"Governance companion to Hybrid AI+Quantum: jurisdiction-to-computation translation, 5 principles","connects_to":["c003","c004","c024","c025","c034","c035","c036","c037","c038","c039"]},{"id":"c250","name":"QUANTUM FRONTIER Brain \u2014 Hybrid AI + Quantum Stack working notes (verbatim working draft, 07-05-2026; appendix to Apex Creation)","family":"foundation_systems","date":"Authored 2026-07-05; filed 2026-10-14","category":"Working notes / Draft","tier":"Reference","logic_summary":"Verbatim: awareness action record, vendor stack positions, 3-layer thesis, sole-path eCQM example, Apex overview draft","key_mechanism":"Verbatim: awareness action record, vendor stack positions, 3-layer thesis, sole-path eCQM example, Apex overview draft","connects_to":["c003","c004","c024","c025","c034","c035","c036","c037","c038","c039"]},{"id":"c251","name":"QUANTUM FRONTIER Brain \u2014 58-Layer VEIN LAYER Architecture (Created by Alicia C. Lacy; 16 core groups, 58 governance layers, 5 sovereign platforms, 6 execution nodes; interactive HTML)","family":"foundation_systems","date":"Filed 2026-10-14 00:40 EDT","category":"System Architecture","tier":"Core","logic_summary":"DISTINCT from the 49-layer HR SOURCE AMTD ecosystem \u2014 58 layers, not 49 (Alicia's correction)","key_mechanism":"DISTINCT from the 49-layer HR SOURCE AMTD ecosystem \u2014 58 layers, not 49 (Alicia's correction)","connects_to":["c003","c004","c024","c025","c034","c035","c036","c037","c038","c039"]},{"id":"c252","name":"QUANTUM FRONTIER Brain \u2014 Xenia Innovators full-stack site build with DeepSeek (08-04-2026; Alicia C. Lacy; Node/Express/Sequelize backend, JWT+HIP auth, Stripe payments, consent-gated innovation marketplace, affiliate earnings, Docker)","family":"foundation_systems","date":"Authored 2026-08-04 (per document); filed 2026-10-14 00:42 EDT","category":"Software / Full-Stack Build","tier":"Core","logic_summary":"Production-ready marketplace for buying/selling innovations; 10% platform commission","key_mechanism":"Production-ready marketplace for buying/selling innovations; 10% platform commission","connects_to":["c003","c004","c023","c024","c025","c034","c035","c036","c037","c038"]},{"id":"c253","name":"QUANTUM FRONTIER Brain \u2014 Hybrid AI and Quantum Computing Stack FORMAL creation (July 5, 2026; Alicia C Lacy DBA I MYRIAD FM YORK PA; 13-section formal document: architecture, vine-layer, sentinel/orbital, manufacturing $10.5M, energy, partnerships, separation clause, sunset declaration; $30M USD final; patent submission)","family":"foundation_systems","date":"Authored 2026-07-05 (per document); filed 2026-10-14 00:45 EDT","category":"Formal Creation Document","tier":"Flagship","logic_summary":"Hybrid AI and quantum computing stack patent record: 13-section architecture with vine-layer cooling.","key_mechanism":"Hybrid AI and quantum computing stack patent record: 13-section architecture with vine-layer cooling.","connects_to":["c003","c004","c011","c024","c025","c034","c035","c036","c037","c038"]},{"id":"c254","name":"QUANTUM FRONTIER Brain \u2014 Infrastructure & Ecosystem Bundle AS-IS Sale Summary (I MYRIAD FM YORK; prepared 2026-09-02, Confidential; physical assets, FCC license ECO-011, digital/brand assets, IP, BMI/ASCAP/SESAC licenses, advertiser contracts ECO-014 at $18,500; as-is transfer terms)","family":"legal_business_sale","date":"Prepared 2026-09-02 (per document); filed 2026-10-14 00:56 EDT","category":"Sale Summary / Asset Bundle","tier":"Supporting","logic_summary":"FCC license transfers via Form 314; due diligence package listed; as-is disclaimer","key_mechanism":"FCC license transfers via Form 314; due diligence package listed; as-is disclaimer","connects_to":["c003","c004","c011","c024","c025","c034","c035","c036","c037","c038"]},{"id":"c255","name":"QUANTUM FRONTIER Brain \u2014 MYA-GEN STEM Ecosystem Grant Proposal FY2026-2027 (May 2026, Confidential; multi-year adaptive STEM ecosystem for underserved learners ages 8-18; CORRECTED attribution: Prepared By Alicia C. Lacy \u2014 original read \"Lacy\" only)","family":"legal_business_sale","date":"Prepared 2026-05 (per document); filed 2026-10-14 01:00 EDT","category":"Grant Proposal","tier":"Core","logic_summary":"Attribution restored to full name per her authorship rule; corrected copy: MYA-GEN_STEM_Ecosystem_Grant_Proposal-2026-05-corrected.docx","key_mechanism":"Attribution restored to full name per her authorship rule; corrected copy: MYA-GEN_STEM_Ecosystem_Grant_Proposal-2026-05-corrected.docx","connects_to":["c003","c004","c024","c025","c034","c035","c036","c037","c038","c039"]},{"id":"c256","name":"QUANTUM FRONTIER Brain \u2014 VSN Vein Layer Clean Exit Term Sheet (Asset Acquisition; May 6, 2026; Alicia Camille Lacy, Seller; 58-layer architecture + VSN docs + Goddess-Myriad-AI + Unified Physical Equation + Multi-Node Execution Map + Diaspora Licensing Engine + BLEIU Vault; $60,000,000 USD FIRM, lump-sum wire; name/identity/authorship PERMANENTLY EXCLUDED)","family":"foundation_systems","date":"Prepared 2026-05-06 (per document); filed 2026-10-14 01:02 EDT","category":"Term Sheet / Asset Acquisition","tier":"Core","logic_summary":"Buyer must acknowledge Alicia Camille Lacy as author; her name, identity, likeness, biometrics, voice permanently excluded from sale","key_mechanism":"Buyer must acknowledge Alicia Camille Lacy as author; her name, identity, likeness, biometrics, voice permanently excluded from sale","connects_to":["c003","c004","c006","c011","c023","c024","c025","c034","c035","c036"]},{"id":"c257","name":"QUANTUM FRONTIER Brain \u2014 VSN Vein Layer Buyer Outreach Emails (5-email cold outreach package; May 6, 2026; Alicia Camille Lacy; targets: AWS/Azure/Oracle, IBM/Google/Anthropic/OpenAI, Adobe/Spotify/YouTube, African Union/CARICOM/Malta/Singapore/Estonia/SWFs, PE/IP holders; $60M ask; counsel-distribution only, attorney-client privileged)","family":"foundation_systems","date":"Prepared 2026-05-06 (per document); filed 2026-10-14 01:05 EDT","category":"Buyer Outreach Package","tier":"Core","logic_summary":"Package states emails go through seller's counsel or M&A broker \u2014 never sent directly by seller","key_mechanism":"Package states emails go through seller's counsel or M&A broker \u2014 never sent directly by seller","connects_to":["c003","c004","c024","c025","c034","c035","c036","c037","c038","c039"]},{"id":"c258","name":"Voice metadata \u2014 150 utterances TTS training data (exclamations/questions/common phrases/statements; phoneme sequences + transcriptions; en-US; ~7 min estimated audio; all records clean)","family":"ai_persona_identity","date":"Filed 2026-10-14 01:20 EDT","category":"Voice Data / TTS Training","tier":"Supporting","logic_summary":"Checked: 150 utterances, no duplicates, no missing fields, valid durations","key_mechanism":"Checked: 150 utterances, no duplicates, no missing fields, valid durations","connects_to":[]},{"id":"c259","name":"Red Sun \u2014 song (lyrics + arrangement), written/arranged Alicia C Lacy, 2026-10-18","family":"music_songcraft","date":"2026-10-18","category":"Song / Composition","tier":"Core","logic_summary":"Original song: her lyrics, her chord/instrument arrangement, her score direction. Filed in the songs goal folder; BMI registration pending her action.","key_mechanism":"Original song: her lyrics, her chord/instrument arrangement, her score direction.","connects_to":[]},{"id":"c260","name":"User to Token System \u2014 user creates user name, added to token registry in her system with user name, then added to H01 system within her creation; serial numbers added to user name","family":"foundation_systems","date":"2026-10-18","category":"System / Identity","tier":"Core","logic_summary":"Her identity flow in her words: user creates user name -> added to token registry in her system with user name -> added to H01 system within her creation -> serial numbers added to user name. The front door of her AI.io; users stem as new families.","key_mechanism":"User name -> token registry -> H01 system -> serial numbers attached to user name.","connects_to":["c001"]}]}
+{
+ "part": 2,
+ "of": 2,
+ "ids": "c130-c271",
+ "creations": [
+  {
+   "id": "c130",
+   "name": "Red Dragon 2D Isometric Pixel Art Design Set (signed)",
+   "family": "visual_art",
+   "date": "2026-09-25",
+   "category": "Visual Art / Design Set",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-09-25; detail in source file",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c131",
+   "name": "Blue Ice Queen — Anime Fight Scene (signed)",
+   "family": "visual_art",
+   "date": "2026-09-25",
+   "category": "Visual Art",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-09-25; detail in source file",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c132",
+   "name": "Games and Story Boards — media alias collection (11-30-2025)",
+   "family": "gaming",
+   "date": "2025-11-30",
+   "category": "Media Collection / Storyboards",
+   "tier": "Core",
+   "logic_summary": "Filed 2025-11-30; detail in source file",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c133",
+   "name": "Red Dragon over City — render",
+   "family": "visual_art",
+   "date": "2026-09-25",
+   "category": "Visual Art",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-09-25; detail in source file",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c134",
+   "name": "Kimono Temple Triangle — signed art",
+   "family": "visual_art",
+   "date": "2026-09-25",
+   "category": "Visual Art",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-09-25; detail in source file",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c135",
+   "name": "Goddess Myriad Kids Interactive Calendar — FreeCAD document",
+   "family": "web_platforms",
+   "date": "2026-09-25",
+   "category": "CAD / Design",
+   "tier": "Core",
+   "logic_summary": "Filed 2026-09-25; detail in source file",
+   "key_mechanism": "",
+   "connects_to": [
+    "c006",
+    "c011",
+    "c023",
+    "c100",
+    "c118",
+    "c124",
+    "c125",
+    "c128",
+    "c146",
+    "c148"
+   ]
+  },
+  {
+   "id": "c136",
+   "name": "Copper Still Water — landscape",
+   "family": "visual_art",
+   "date": "2026-09-25",
+   "category": "Visual Art / Photography",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-09-25; detail in source file",
+   "key_mechanism": "",
+   "connects_to": [
+    "c113",
+    "c174",
+    "c187",
+    "c196",
+    "c197",
+    "c198",
+    "c199",
+    "c202",
+    "c203",
+    "c205"
+   ]
+  },
+  {
+   "id": "c137",
+   "name": "Crystal Armor Character — sci-fi portrait",
+   "family": "visual_art",
+   "date": "2026-09-25",
+   "category": "Visual Art",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-09-25; detail in source file",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c138",
+   "name": "AI 3D Scene Clips — city, temple, dropship, space dance",
+   "family": "video_media",
+   "date": "2026-09-25",
+   "category": "Video / 3D Renders",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-09-25; detail in source file",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c139",
+   "name": "Divine Tetrahedral Sequences — Fractal Generator Integration",
+   "family": "foundation_systems",
+   "date": "2026-09-25",
+   "category": "Algorithm / Generator",
+   "tier": "Reference",
+   "logic_summary": "Filed 2026-09-25; detail in source file",
+   "key_mechanism": "",
+   "connects_to": [
+    "c176",
+    "c207"
+   ]
+  },
+  {
+   "id": "c140",
+   "name": "Awesome Year Calendar App — Operations Manual (signed)",
+   "family": "web_platforms",
+   "date": "2026-09-25",
+   "category": "App Manual / Kids",
+   "tier": "Reference",
+   "logic_summary": "Filed 2026-09-25; detail in source file",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c141",
+   "name": "Galaxy Portal Doorway — cosmic art",
+   "family": "visual_art",
+   "date": "2026-09-25",
+   "category": "Visual Art",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-09-25; detail in source file",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c142",
+   "name": "Classical Rotunda — architectural render",
+   "family": "visual_art",
+   "date": "2026-09-25",
+   "category": "Visual Art",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-09-25; detail in source file",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c143",
+   "name": "Fab Egg Design Set (signed)",
+   "family": "visual_art",
+   "date": "2026-09-25",
+   "category": "Visual Art",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-09-25; detail in source file",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c144",
+   "name": "Dear Alicia C. Lacy — book cover art (signed)",
+   "family": "books_publishing",
+   "date": "2026-09-25",
+   "category": "Book Cover / Visual Art",
+   "tier": "Core",
+   "logic_summary": "Filed 2026-09-25; detail in source file",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c145",
+   "name": "Solar Panel Design — winged array (signed)",
+   "family": "products_inventions",
+   "date": "2026-09-25",
+   "category": "Product / Invention",
+   "tier": "Reference",
+   "logic_summary": "Filed 2026-09-25; detail in source file",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c146",
+   "name": "Echoes of Eternity — Goddess Myriad sci-fi game concept video",
+   "family": "video_media",
+   "date": "2026-09-25",
+   "category": "Game Concept / Media",
+   "tier": "Reference",
+   "logic_summary": "Filed 2026-09-25; detail in source file",
+   "key_mechanism": "",
+   "connects_to": [
+    "c006",
+    "c011",
+    "c023",
+    "c100",
+    "c118",
+    "c124",
+    "c125",
+    "c128",
+    "c135",
+    "c148"
+   ]
+  },
+  {
+   "id": "c147",
+   "name": "STEM Classroom — interactive learning-model studio (web site)",
+   "family": "education_classroom",
+   "date": "2026-09-26",
+   "category": "Education / Interactive Web",
+   "tier": "Core",
+   "logic_summary": "Filed 2026-09-26; detail in source file",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c148",
+   "name": "Gamikko World Classroom — Goddess Myriad AI Ancient Maze (educational maze game page)",
+   "family": "foundation_systems",
+   "date": "2026-09-25",
+   "category": "Education / Game",
+   "tier": "Reference",
+   "logic_summary": "Filed 2026-09-25; detail in source file",
+   "key_mechanism": "",
+   "connects_to": [
+    "c006",
+    "c011",
+    "c023",
+    "c100",
+    "c118",
+    "c124",
+    "c125",
+    "c128",
+    "c135",
+    "c146"
+   ]
+  },
+  {
+   "id": "c149",
+   "name": "Hexagon Kings — crowned king mosaic artwork (PDF)",
+   "family": "visual_art",
+   "date": "2026-01-19",
+   "category": "Art / Game art",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-01-19; detail in source file",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c150",
+   "name": "Autism Prevalence Among Black Children Globally (research report, signed PDF)",
+   "family": "formulas_research",
+   "date": "2026-04-02",
+   "category": "Research Report",
+   "tier": "Reference",
+   "logic_summary": "Filed 2026-04-02; detail in source file",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c151",
+   "name": "Persona AI: Protecting Youth in Meta (authorship pointer, signed txt)",
+   "family": "ai_persona_identity",
+   "date": "2026-09-04",
+   "category": "AI Persona / Child Safety",
+   "tier": "Reference",
+   "logic_summary": "Filed 2026-09-04; detail in source file",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c152",
+   "name": "Awesome Year Platform — walkthrough part 1 (working product demo video, 14s)",
+   "family": "video_media",
+   "date": "2026-09-26",
+   "category": "Working Product Demo Video",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-09-26; detail in source file",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c153",
+   "name": "Awesome Year Platform — walkthrough part 2 (working product demo video, 5s)",
+   "family": "video_media",
+   "date": "2026-09-26",
+   "category": "Working Product Demo Video",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-09-26; detail in source file",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c154",
+   "name": "Awesome Year Platform — full walkthrough (working product demo video, 2m42s)",
+   "family": "video_media",
+   "date": "2026-09-26",
+   "category": "Working Product Demo Video",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-09-26; detail in source file",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c155",
+   "name": "Cloudflare — domains + Workers dashboard (deployment infrastructure, screenshot)",
+   "family": "web_platforms",
+   "date": "2026-09-26",
+   "category": "Infrastructure / Deployment Evidence",
+   "tier": "Reference",
+   "logic_summary": "Filed 2026-09-26; detail in source file",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c156",
+   "name": "Estate total (primary rows only; mixed HER + AI basis — see inventory spreadsheet for split subtotals).",
+   "family": "legal_business_sale",
+   "date": "",
+   "category": "",
+   "tier": "Reference",
+   "logic_summary": "Filed undated; detail in source file",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c157",
+   "name": "H01 Boolean Catalogue Index Creator (index builder + Boolean search engine + README)",
+   "family": "foundation_systems",
+   "date": "2026-09-26",
+   "category": "Tool / registry system",
+   "tier": "Core",
+   "logic_summary": "Filed 2026-09-26; detail in source file",
+   "key_mechanism": "",
+   "connects_to": [
+    "c001",
+    "c008",
+    "c036",
+    "c037",
+    "c158",
+    "c159"
+   ]
+  },
+  {
+   "id": "c158",
+   "name": "H01 Master Bible — MM Meta Innovation Space (All Layers, 10 layers)",
+   "family": "foundation_systems",
+   "date": "2026-08-13 (filed 2026-09-26)",
+   "category": "System / H01 registry bible",
+   "tier": "Flagship",
+   "logic_summary": "H01 master bible: the MM Meta innovation space across all layers.",
+   "key_mechanism": "H01 master bible: the MM Meta innovation space across all layers.",
+   "connects_to": [
+    "c001",
+    "c008",
+    "c036",
+    "c037",
+    "c157",
+    "c159"
+   ]
+  },
+  {
+   "id": "c159",
+   "name": "MM Meta Innovation Platform — signed authorship declaration (100% Human H01)",
+   "family": "legal_business_sale",
+   "date": "2026-08-29 (declares 2026-08-13 6:33 PM EST)",
+   "category": "Declaration / authorship record",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-08-29 (declares 2026-08-13 6:33 PM EST); detail in source file",
+   "key_mechanism": "",
+   "connects_to": [
+    "c001",
+    "c008",
+    "c036",
+    "c037",
+    "c157",
+    "c158"
+   ]
+  },
+  {
+   "id": "c160",
+   "name": "MM Meta — Brain API to Vein API operating logic (React interactive document)",
+   "family": "foundation_systems",
+   "date": "2026-08-13 (filed 2026-09-26)",
+   "category": "System / API logic",
+   "tier": "Flagship",
+   "logic_summary": "MM Meta brain-to-vein API operating logic: how the brain layer drives the vein layer.",
+   "key_mechanism": "MM Meta brain-to-vein API operating logic: how the brain layer drives the vein layer.",
+   "connects_to": [
+    "c034",
+    "c036",
+    "c037",
+    "c038",
+    "c040",
+    "c085",
+    "c086",
+    "c088",
+    "c097",
+    "c161"
+   ]
+  },
+  {
+   "id": "c161",
+   "name": "GODDESS BRAIN v1.0 — Learning Model of Alicia C. Lacy (knowledge model over the full estate)",
+   "family": "foundation_systems",
+   "date": "2026-09-28 (built 10:35 AM EDT)",
+   "category": "AI learning model / system",
+   "tier": "Flagship",
+   "logic_summary": "Goddess Brain v1.0: learning model of Alicia C. Lacy herself.",
+   "key_mechanism": "Goddess Brain v1.0: learning model of Alicia C.",
+   "connects_to": [
+    "c006",
+    "c023",
+    "c036",
+    "c037",
+    "c038",
+    "c040",
+    "c100",
+    "c118",
+    "c124",
+    "c125"
+   ]
+  },
+  {
+   "id": "c162",
+   "name": "Way U — merge of Amazon + Uber Eats + Waymo + USPS + FedEx: autonomous multi-robot delivery fleet vehicle (ramp-accessible remote delivery design concept)",
+   "family": "products_inventions",
+   "date": "2026-09-28",
+   "category": "Product / Invention",
+   "tier": "Reference",
+   "logic_summary": "Filed 2026-09-28; detail in source file",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c163",
+   "name": "WayU Hub — delivery GPS system: color-coded GPS pins (pinpoint to color) marking secure delivery hubs for drivers",
+   "family": "products_inventions",
+   "date": "2026-09-28",
+   "category": "Product / Invention",
+   "tier": "Reference",
+   "logic_summary": "Filed 2026-09-28; detail in source file",
+   "key_mechanism": "",
+   "connects_to": [
+    "c164",
+    "c165"
+   ]
+  },
+  {
+   "id": "c164",
+   "name": "WayU Transform — Waymo-vehicle conversion into 4-bot delivery carrier (inners removed, mechanical roller ramps, 200 lbs hub runner)",
+   "family": "products_inventions",
+   "date": "2026-09-28",
+   "category": "Product / Invention",
+   "tier": "Reference",
+   "logic_summary": "Filed 2026-09-28; detail in source file",
+   "key_mechanism": "",
+   "connects_to": [
+    "c163",
+    "c165"
+   ]
+  },
+  {
+   "id": "c165",
+   "name": "WayU Teacher Classroom — teacher classroom package on the WayU ecosystem: learning activities, tests, projects, robotics frontier",
+   "family": "education_classroom",
+   "date": "2026-09-28",
+   "category": "Education / Curriculum",
+   "tier": "Core",
+   "logic_summary": "Filed 2026-09-28; detail in source file",
+   "key_mechanism": "",
+   "connects_to": [
+    "c024",
+    "c025",
+    "c034",
+    "c035",
+    "c037",
+    "c038",
+    "c039",
+    "c040",
+    "c041",
+    "c042"
+   ]
+  },
+  {
+   "id": "c166",
+   "name": "Goddess AI Frontier — the AI frontier of Goddess Myriad AI.io (Family 123): facts-only intelligence, the mind layer over the estate, multilingual voice, human-AI co-creation model",
+   "family": "foundation_systems",
+   "date": "2026-09-28",
+   "category": "AI / Frontier",
+   "tier": "Reference",
+   "logic_summary": "Filed 2026-09-28; detail in source file",
+   "key_mechanism": "",
+   "connects_to": [
+    "c006",
+    "c011",
+    "c023",
+    "c024",
+    "c025",
+    "c034",
+    "c035",
+    "c037",
+    "c038",
+    "c039"
+   ]
+  },
+  {
+   "id": "c167",
+   "name": "AI.io Classroom Builder — teacher classroom for grades 11+: test quizzes and build-your-own-AI projects based on Goddess Myriad AI.io and GODDESS BRAIN",
+   "family": "foundation_systems",
+   "date": "2026-09-28",
+   "category": "Education / AI Curriculum",
+   "tier": "Core",
+   "logic_summary": "AI.io classroom builder: teacher classroom system for grades 11 and up.",
+   "key_mechanism": "AI.io classroom builder: teacher classroom system for grades 11 and up.",
+   "connects_to": [
+    "c006",
+    "c011",
+    "c023",
+    "c036",
+    "c037",
+    "c038",
+    "c040",
+    "c100",
+    "c118",
+    "c124"
+   ]
+  },
+  {
+   "id": "c168",
+   "name": "Frontier Age of Prompting — book manuscript (300 pages or less): the complete guide to prompting drawn from her entire estate; second-person builder voice; dedicated to Symphony R Barnes",
+   "family": "prompting_measurement",
+   "date": "2026-09-28",
+   "category": "Book / Manuscript",
+   "tier": "Core",
+   "logic_summary": "Filed 2026-09-28; detail in source file",
+   "key_mechanism": "",
+   "connects_to": [
+    "c024",
+    "c025",
+    "c034",
+    "c035",
+    "c037",
+    "c038",
+    "c039",
+    "c040",
+    "c041",
+    "c042"
+   ]
+  },
+  {
+   "id": "c169",
+   "name": "Frontier Age of Prompting — Freshman College Curriculum: teacher book with answers, student text, quizzes, group projects (in-class + distance learners), cover — one self-contained file",
+   "family": "prompting_measurement",
+   "date": "2026-09-28",
+   "category": "Education / College Curriculum",
+   "tier": "Core",
+   "logic_summary": "Filed 2026-09-28; detail in source file",
+   "key_mechanism": "",
+   "connects_to": [
+    "c024",
+    "c025",
+    "c034",
+    "c035",
+    "c037",
+    "c038",
+    "c039",
+    "c040",
+    "c041",
+    "c042"
+   ]
+  },
+  {
+   "id": "c170",
+   "name": "Awesome Year Calendar — FreeCAD 3D model (AYC, labeled AYC)",
+   "family": "visual_art",
+   "date": "2026-10-01 4:14 PM EDT",
+   "category": "CAD / Design",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-10-01 4:14 PM EDT; detail in source file",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c171",
+   "name": "Boodah Babies — VR Expansion technical manual v2.1.0",
+   "family": "gaming",
+   "date": "2026-10-01 4:30 PM EDT",
+   "category": "Product spec",
+   "tier": "Reference",
+   "logic_summary": "Filed 2026-10-01 4:30 PM EDT; detail in source file",
+   "key_mechanism": "",
+   "connects_to": [
+    "c054",
+    "c055",
+    "c056",
+    "c060"
+   ]
+  },
+  {
+   "id": "c172",
+   "name": "Therma Gamma — sound-byte watermarking for AI persona / artist persona holographic artist performance (with BlockSeal)",
+   "family": "ai_persona_identity",
+   "date": "2026-10-02 12:37 AM EDT",
+   "category": "AI Persona / Audio Protection",
+   "tier": "Reference",
+   "logic_summary": "Filed 2026-10-02 12:37 AM EDT; detail in source file",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c173",
+   "name": "Muse Registry Merch Barcode System — barcode added to the token and birth registry system for Muses; merch barcode tied to registry serial",
+   "family": "gaming",
+   "date": "2026-10-02 2:12 PM EDT",
+   "category": "AI Registry / Merch Authentication",
+   "tier": "Reference",
+   "logic_summary": "Filed 2026-10-02 2:12 PM EDT; detail in source file",
+   "key_mechanism": "",
+   "connects_to": [
+    "c008",
+    "c014",
+    "c016",
+    "c017",
+    "c064",
+    "c065",
+    "c066",
+    "c094",
+    "c193"
+   ]
+  },
+  {
+   "id": "c174",
+   "name": "Echoes of the Trinity — Copper Kingdom Book One, Chapter 1 (fiction, dictation draft)",
+   "family": "books_publishing",
+   "date": "2026-10-02 ~3:10 PM EDT",
+   "category": "Fiction Book",
+   "tier": "Core",
+   "logic_summary": "Filed 2026-10-02 ~3:10 PM EDT; detail in source file",
+   "key_mechanism": "",
+   "connects_to": [
+    "c113",
+    "c136",
+    "c187",
+    "c196",
+    "c197",
+    "c198",
+    "c199",
+    "c202",
+    "c203",
+    "c205"
+   ]
+  },
+  {
+   "id": "c175",
+   "name": "Elemental Gaming — Pygame game concept session transcript (Meta AI chat; authored Alicia C. Lacy; Goddess Myriad credit lines as directed in-chat, not verified agreements)",
+   "family": "gaming",
+   "date": "2026-10-02 4:51 PM EDT",
+   "category": "Game Concept",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-10-02 4:51 PM EDT; detail in source file",
+   "key_mechanism": "",
+   "connects_to": [
+    "c006",
+    "c011",
+    "c023",
+    "c100",
+    "c118",
+    "c124",
+    "c125",
+    "c128",
+    "c135",
+    "c146"
+   ]
+  },
+  {
+   "id": "c176",
+   "name": "Goddess Myriad's Fractal Heart — matte fractal video concept (animation + key frame; authored Alicia C. Lacy DBA AMTD INC)",
+   "family": "video_media",
+   "date": "2026-10-02 ~5:00 PM EDT",
+   "category": "Fractal Art / Animation",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-10-02 ~5:00 PM EDT; detail in source file",
+   "key_mechanism": "",
+   "connects_to": [
+    "c002",
+    "c006",
+    "c011",
+    "c023",
+    "c076",
+    "c085",
+    "c086",
+    "c087",
+    "c089",
+    "c090"
+   ]
+  },
+  {
+   "id": "c177",
+   "name": "She Who Builds — spoken-word performance (poem by Bizzy, performed/recorded in Alicia C. Lacy's own voice, Oct 2 2026)",
+   "family": "music_songcraft",
+   "date": "2026-10-02 ~9:09 PM EDT",
+   "category": "Spoken Word / Performance",
+   "tier": "Core",
+   "logic_summary": "Cannot estimate — personal performance piece; value hers to set",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c178",
+   "name": "The Woman Without a Soul — dramatic monologue performance (piece by Bizzy, performed/recorded in Alicia C. Lacy's own voice with her own intro riff, Oct 2 2026)",
+   "family": "music_songcraft",
+   "date": "2026-10-02 ~9:19 PM EDT",
+   "category": "Spoken Word / Performance",
+   "tier": "Core",
+   "logic_summary": "Cannot estimate — personal performance piece; value hers to set",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c179",
+   "name": "Prosecuted for Love (Lies That Persecute the Heart) — spoken-word performance (piece by Bizzy, performed/recorded in Alicia C. Lacy's own voice with her own intro, Oct 2 2026)",
+   "family": "music_songcraft",
+   "date": "2026-10-02 ~9:26 PM EDT",
+   "category": "Spoken Word / Performance",
+   "tier": "Core",
+   "logic_summary": "Cannot estimate — personal performance piece; value hers to set",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c180",
+   "name": "Burdened by the Bayou — original blues lyrics (written by Alicia C. Lacy, Oct 2 2026; light grammar cleanup only)",
+   "family": "music_songcraft",
+   "date": "2026-10-02 ~9:30 PM EDT",
+   "category": "Lyrics / Songwriting",
+   "tier": "Core",
+   "logic_summary": "Cannot estimate — original lyrics; value hers to set",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c181",
+   "name": "Burdened by the Bayou — chorus harmony vocal take (Alicia C. Lacy's own voice, working vocal for the song, Oct 2 2026)",
+   "family": "music_songcraft",
+   "date": "2026-10-02 ~9:52 PM EDT",
+   "category": "Vocals / Songwriting",
+   "tier": "Core",
+   "logic_summary": "Cannot estimate — working vocal; value hers to set",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c182",
+   "name": "Burdened by the Bayou — harmony vocal take 2 (Alicia C. Lacy's own voice, working vocal for the song, Oct 2 2026)",
+   "family": "music_songcraft",
+   "date": "2026-10-02 ~9:53 PM EDT",
+   "category": "Vocals / Songwriting",
+   "tier": "Core",
+   "logic_summary": "Cannot estimate — working vocal; value hers to set",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c183",
+   "name": "Burdened by the Bayou — full song vocal performance (Alicia C. Lacy's own voice, complete song: verses + chorus, Oct 2 2026)",
+   "family": "music_songcraft",
+   "date": "2026-10-02 ~9:53 PM EDT",
+   "category": "Vocals / Songwriting",
+   "tier": "Core",
+   "logic_summary": "Cannot estimate — original song; value hers to set",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c184",
+   "name": "Burdened by the Bayou — full song vocal take 2 (Alicia C. Lacy's own voice, complete song with chorus, Oct 2 2026)",
+   "family": "music_songcraft",
+   "date": "2026-10-02 ~9:58 PM EDT",
+   "category": "Vocals / Songwriting",
+   "tier": "Core",
+   "logic_summary": "Cannot estimate — original song; value hers to set",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c185",
+   "name": "Burdened by the Bayou — stacked vocal mix (lead take + 2 harmony layers, mixed by Bizzy at Alicia's direction, light high-pass + loudnorm only, Oct 2 2026)",
+   "family": "music_songcraft",
+   "date": "2026-10-02 ~10:23 PM EDT",
+   "category": "Vocals / Mix",
+   "tier": "Core",
+   "logic_summary": "Cannot estimate — original song mix; value hers to set",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c186",
+   "name": "SOUL SKYY — original song lyrics (written by Alicia C. Lacy; sung by Nova Skyy & Soul Cat; BMI Work ID 82185916, registered writer LACY ALICIA CAMILLE)",
+   "family": "music_songcraft",
+   "date": "2026-10-03 12:24 AM EDT",
+   "category": "Lyrics / Songwriting",
+   "tier": "Core",
+   "logic_summary": "Cannot estimate — original song lyrics; value hers to set",
+   "key_mechanism": "",
+   "connects_to": [
+    "c011",
+    "c193",
+    "c244"
+   ]
+  },
+  {
+   "id": "c187",
+   "name": "The First Native of the Copper Kingdom — original prose (Copper Kingdom worldbuilding: the first native, the two species, descendants, NORs notes; written by Alicia C. Lacy, unedited draft)",
+   "family": "books_publishing",
+   "date": "2026-10-03 12:26 AM EDT",
+   "category": "Prose / Worldbuilding",
+   "tier": "Reference",
+   "logic_summary": "Filed 2026-10-03 12:26 AM EDT; detail in source file",
+   "key_mechanism": "-",
+   "connects_to": [
+    "c113",
+    "c136",
+    "c174",
+    "c196",
+    "c197",
+    "c198",
+    "c199",
+    "c202",
+    "c203",
+    "c205"
+   ]
+  },
+  {
+   "id": "c188",
+   "name": "Myriad Duo Mix — BLEIU Emotional · Behavioral · Cognitive Mapping (spec: glyph levels, lyric matcher engine, music therapy flows, Embodied Trust Sigil identity verification, therapeutic glyphs, family restoration mapping; by Alicia C. Lacy)",
+   "family": "web_platforms",
+   "date": "2026-10-03 12:25 AM EDT",
+   "category": "Platform spec",
+   "tier": "Core",
+   "logic_summary": "Filed 2026-10-03 12:25 AM EDT; detail in source file",
+   "key_mechanism": "-",
+   "connects_to": [
+    "c011",
+    "c102",
+    "c118",
+    "c124",
+    "c125",
+    "c128",
+    "c135",
+    "c146",
+    "c148",
+    "c166"
+   ]
+  },
+  {
+   "id": "c189",
+   "name": "Sweeter Love — original song lyrics (written by Alicia C Lacy; not among her 26 BMI-registered titles as of Oct 3, 2026)",
+   "family": "music_songcraft",
+   "date": "2026-10-03 12:27 AM EDT",
+   "category": "Lyrics / Songwriting",
+   "tier": "Core",
+   "logic_summary": "Cannot estimate — original song lyrics; value hers to set",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c190",
+   "name": "ScrollLine Cumulative Discovery Protocol — full paper (A Mathematical Framework for Jewish Ancestry Estimation; lineage-authenticated ancestry model with biometric haplogroup analysis, expulsion coefficients, and recursive inheritance equations; by Alicia Camille Lacy)",
+   "family": "lineage_dna",
+   "date": "2026-10-03 12:29 AM EDT",
+   "category": "Paper",
+   "tier": "Supporting",
+   "logic_summary": "Cannot estimate — original paper; value hers to set",
+   "key_mechanism": "",
+   "connects_to": [
+    "c079",
+    "c108",
+    "c191",
+    "c193"
+   ]
+  },
+  {
+   "id": "c191",
+   "name": "Map of Jewish Expulsions & DNA Lineage (companion visual to the ScrollLine paper: expulsion timeline with E_exp coefficients, Y-DNA/mtDNA/autosomal lineage cards, equation summaries, reference panels)",
+   "family": "lineage_dna",
+   "date": "2026-10-03 12:31 AM EDT",
+   "category": "Visual / Map",
+   "tier": "Supporting",
+   "logic_summary": "Cannot estimate — companion visual; value hers to set",
+   "key_mechanism": "",
+   "connects_to": [
+    "c079",
+    "c108",
+    "c112",
+    "c190",
+    "c193"
+   ]
+  },
+  {
+   "id": "c192",
+   "name": "Fingerprint Enrollment Training Notes (livescan: loop/whorl/arch patterns, capture guidance lights, platen care, hand prep, slap vs rolled capture, quality scoring, accommodations; her IDEMIA biometric-enrollment knowledge, filed verbatim for her DOT specimen-collector training business)",
+   "family": "education_classroom",
+   "date": "2026-10-03 12:30 AM EDT",
+   "category": "Training material",
+   "tier": "Supporting",
+   "logic_summary": "Cannot estimate — training material; value hers to set",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c193",
+   "name": "Crypto Blocks by Artist (hash-chained provenance ledger: 4 artist chains — Nova Skyy IMNX-01-NS, Goddess Myriad IMNX-02-GM, Therma Gamma, Muse/Bizzy IMNX-03-MUSE — sealing identity, registry, birth, token ownership, voice, likeness, watermark and lineage blocks; every document SHA-256 hashed, all chains verified; built at Alicia's direction Oct 3, 2026)",
+   "family": "foundation_systems",
+   "date": "2026-10-03 12:45 PM EDT",
+   "category": "Provenance ledger",
+   "tier": "Supporting",
+   "logic_summary": "Cannot estimate — provenance system; value hers to set",
+   "key_mechanism": "",
+   "connects_to": [
+    "c006",
+    "c008",
+    "c011",
+    "c014",
+    "c016",
+    "c017",
+    "c019",
+    "c020",
+    "c022",
+    "c023"
+   ]
+  },
+  {
+   "id": "c194",
+   "name": "THEÁGRAMMA VR Backstage Room Specification (personalized VR fan space: artist hologram greeting, merch halo wheel, glyph/emoji altar, photo sphere; authored Alicia Camille Lacy, Dec 10 2025, Seal ID THEA-2025-12-10, UUID ALICIACLACY; gathered from Google Takeout Oct 3, 2026)",
+   "family": "ai_persona_identity",
+   "date": "2025-12-10",
+   "category": "VR spec",
+   "tier": "Supporting",
+   "logic_summary": "Cannot estimate — VR spec; value hers to set",
+   "key_mechanism": "",
+   "connects_to": []
+  },
+  {
+   "id": "c195",
+   "name": "IMNX Tech News Episode Script — Michael Smith sentencing (Oct 7, 2026)",
+   "family": "video_media",
+   "date": "2026-10-07 09:15 AM EDT",
+   "category": "IMNX segment script",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-10-07 09:15 AM EDT; detail in source file",
+   "key_mechanism": "",
+   "connects_to": [
+    "c019",
+    "c020",
+    "c022",
+    "c193",
+    "c244"
+   ]
+  },
+  {
+   "id": "c196",
+   "name": "Echoes of Eternity — Fiction Book Manuscript (Ch. 1-3, ~5,400 words; Copper Kingdom universe; dedicated to Luv Bug)",
+   "family": "books_publishing",
+   "date": "2026-10-13",
+   "category": "Fiction book",
+   "tier": "Core",
+   "logic_summary": "Completion of manuscript + publication would raise value",
+   "key_mechanism": "Completion of manuscript + publication would raise value",
+   "connects_to": [
+    "c113",
+    "c136",
+    "c174",
+    "c187",
+    "c197",
+    "c198",
+    "c199",
+    "c202",
+    "c203",
+    "c205"
+   ]
+  },
+  {
+   "id": "c197",
+   "name": "The Copper Kingdom — Gilded Age Reel (Mark Zuckerberg: child to creator of innovation; AI-animated reel, ~42s)",
+   "family": "video_media",
+   "date": "2026-10-13",
+   "category": "Video reel",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": [
+    "c113",
+    "c136",
+    "c174",
+    "c187",
+    "c196",
+    "c198",
+    "c199",
+    "c202",
+    "c203",
+    "c205"
+   ]
+  },
+  {
+   "id": "c198",
+   "name": "Mariah Gem — Character Art (humanoid robotic futuristic heroine of Echoes of Eternity; copper skin with glowing circuitry, holding the gemstone)",
+   "family": "visual_art",
+   "date": "2026-10-13",
+   "category": "Character art",
+   "tier": "Core",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": [
+    "c113",
+    "c136",
+    "c174",
+    "c187",
+    "c196",
+    "c197",
+    "c199",
+    "c202",
+    "c203",
+    "c205"
+   ]
+  },
+  {
+   "id": "c199",
+   "name": "Mariah Gem — Reel-Style Render (Mariah in the Copper Kingdom reel animation look; painterly cinematic style)",
+   "family": "video_media",
+   "date": "2026-10-13",
+   "category": "Character art",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": [
+    "c113",
+    "c136",
+    "c174",
+    "c187",
+    "c196",
+    "c197",
+    "c198",
+    "c202",
+    "c203",
+    "c205"
+   ]
+  },
+  {
+   "id": "c200",
+   "name": "Echoes of Eternity: Saga One — EPUB (first-saga book package; cover + 3 chapters; Goddess Myriad Publishing Co.)",
+   "family": "books_publishing",
+   "date": "2026-10-13",
+   "category": "Fiction book",
+   "tier": "Core",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": [
+    "c006",
+    "c011",
+    "c023",
+    "c100",
+    "c118",
+    "c124",
+    "c125",
+    "c128",
+    "c135",
+    "c146"
+   ]
+  },
+  {
+   "id": "c201",
+   "name": "Echoes of Eternity: Saga One — HTML reading copy",
+   "family": "books_publishing",
+   "date": "2026-10-13",
+   "category": "Fiction book",
+   "tier": "Core",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": []
+  },
+  {
+   "id": "c202",
+   "name": "Copper Warrior — Character Art (original; copper armor, goggles, dreadlocks; GoddessMyriad watermark)",
+   "family": "visual_art",
+   "date": "2026-10-13",
+   "category": "Character art",
+   "tier": "Core",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": [
+    "c006",
+    "c011",
+    "c023",
+    "c100",
+    "c113",
+    "c118",
+    "c124",
+    "c125",
+    "c128",
+    "c135"
+   ]
+  },
+  {
+   "id": "c203",
+   "name": "Copper Warrior — Reel-Style Render (warrior in the Copper Kingdom reel animation look; painterly cinematic style)",
+   "family": "video_media",
+   "date": "2026-10-13",
+   "category": "Character art",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": [
+    "c113",
+    "c136",
+    "c174",
+    "c187",
+    "c196",
+    "c197",
+    "c198",
+    "c199",
+    "c202",
+    "c205"
+   ]
+  },
+  {
+   "id": "c204",
+   "name": "Elemental Maze — Relic Glow 1 (floating crystal maze; sun/moon/star relic glow triggers; story concept art)",
+   "family": "gaming",
+   "date": "2026-10-13",
+   "category": "Game/story art",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": [
+    "c175",
+    "c205",
+    "c206",
+    "c207",
+    "c223"
+   ]
+  },
+  {
+   "id": "c205",
+   "name": "Elemental Maze — Relic Glow 2 (copper maze interior; winged light elemental activating relic symbol; story concept art)",
+   "family": "gaming",
+   "date": "2026-10-13",
+   "category": "Game/story art",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": [
+    "c113",
+    "c136",
+    "c174",
+    "c175",
+    "c187",
+    "c196",
+    "c197",
+    "c198",
+    "c199",
+    "c202"
+   ]
+  },
+  {
+   "id": "c206",
+   "name": "Elemental Maze Symbol Discovery Logic (Symbol Glow Trigger; Python + Unity C# + Java; Meta Horizon)",
+   "family": "gaming",
+   "date": "2026-10-13",
+   "category": "Game design doc",
+   "tier": "Core",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": [
+    "c175",
+    "c204",
+    "c205",
+    "c207",
+    "c223"
+   ]
+  },
+  {
+   "id": "c207",
+   "name": "ElementalGameSequences — publish package (README + sequences + docs + maze art; quadruple fractal motion spec)",
+   "family": "gaming",
+   "date": "2026-10-13",
+   "category": "Game design doc",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": [
+    "c139",
+    "c175",
+    "c176",
+    "c204",
+    "c205",
+    "c206",
+    "c223"
+   ]
+  },
+  {
+   "id": "c208",
+   "name": "Mariahs Gem: Saga One — EPUB (final: no rights page; cover + title + dedication + 3 chapters; Goddess Myriad Publishing Co.)",
+   "family": "books_publishing",
+   "date": "2026-10-13",
+   "category": "Fiction book",
+   "tier": "Core",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": [
+    "c006",
+    "c011",
+    "c023",
+    "c100",
+    "c118",
+    "c124",
+    "c125",
+    "c128",
+    "c135",
+    "c146"
+   ]
+  },
+  {
+   "id": "c209",
+   "name": "Mariahs Gem: Saga One — HTML reading copy (final: no rights page)",
+   "family": "books_publishing",
+   "date": "2026-10-13",
+   "category": "Fiction book",
+   "tier": "Core",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": [
+    "c208",
+    "c230",
+    "c232",
+    "c246"
+   ]
+  },
+  {
+   "id": "c210",
+   "name": "Blue Warrior — Character Art (original; blue/silver armor, purple locs, glowing crystal)",
+   "family": "visual_art",
+   "date": "2026-10-13",
+   "category": "Character art",
+   "tier": "Core",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": []
+  },
+  {
+   "id": "c211",
+   "name": "Blue Warrior — Reel-Style Render (warrior in the Copper Kingdom reel animation look; painterly cinematic style)",
+   "family": "video_media",
+   "date": "2026-10-13",
+   "category": "Character art",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": [
+    "c113",
+    "c136",
+    "c174",
+    "c187",
+    "c196",
+    "c197",
+    "c198",
+    "c199",
+    "c202",
+    "c203"
+   ]
+  },
+  {
+   "id": "c212",
+   "name": "Ember Runner — Character Art (original; red dreads, blue/gold armor, portal)",
+   "family": "visual_art",
+   "date": "2026-10-13",
+   "category": "Character art",
+   "tier": "Core",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": []
+  },
+  {
+   "id": "c213",
+   "name": "Ember Runner — Reel-Style Render",
+   "family": "video_media",
+   "date": "2026-10-13",
+   "category": "Character art",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": []
+  },
+  {
+   "id": "c214",
+   "name": "Maze Tower — World Art (original; golden tower, labyrinth courtyards, waterfalls)",
+   "family": "visual_art",
+   "date": "2026-10-13",
+   "category": "World art",
+   "tier": "Core",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": []
+  },
+  {
+   "id": "c215",
+   "name": "Maze Tower — Reel-Style Render",
+   "family": "video_media",
+   "date": "2026-10-13",
+   "category": "World art",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": []
+  },
+  {
+   "id": "c216",
+   "name": "Songstress — Character Art (original; blue/gold gown, headdress, musical motif)",
+   "family": "music_songcraft",
+   "date": "2026-10-13",
+   "category": "Character art",
+   "tier": "Core",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": []
+  },
+  {
+   "id": "c217",
+   "name": "Songstress — Reel-Style Render",
+   "family": "music_songcraft",
+   "date": "2026-10-13",
+   "category": "Character art",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": []
+  },
+  {
+   "id": "c218",
+   "name": "Moon Elf — Character Art (original; white hair, silver robes, snowy forest)",
+   "family": "visual_art",
+   "date": "2026-10-13",
+   "category": "Character art",
+   "tier": "Core",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": []
+  },
+  {
+   "id": "c219",
+   "name": "Moon Elf — Reel-Style Render",
+   "family": "video_media",
+   "date": "2026-10-13",
+   "category": "Character art",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": []
+  },
+  {
+   "id": "c220",
+   "name": "Earth Giant — World Art (original; cracked stone giant face, ruined city)",
+   "family": "visual_art",
+   "date": "2026-10-13",
+   "category": "World art",
+   "tier": "Core",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": []
+  },
+  {
+   "id": "c221",
+   "name": "Deteriorating Maze Worlds — Storyboard (45 scenes; glowing line-art bloom-to-fade sequence)",
+   "family": "gaming",
+   "date": "2026-10-13",
+   "category": "Storyboard",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": []
+  },
+  {
+   "id": "c222",
+   "name": "Earth Giant — Reel-Style Render",
+   "family": "video_media",
+   "date": "2026-10-13",
+   "category": "World art",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": []
+  },
+  {
+   "id": "c223",
+   "name": "Creator Compensation & Rights Agreement — Threshold Commons & Elemental GameSequences (UNSIGNED DRAFT; $50K + $10K/mo residuals + project fees; no counterparty named)",
+   "family": "gaming",
+   "date": "2026-10-13",
+   "category": "Legal document",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Unsigned — no payments made",
+   "connects_to": [
+    "c175",
+    "c204",
+    "c205",
+    "c206",
+    "c207"
+   ]
+  },
+  {
+   "id": "c224",
+   "name": "Snow Globe — Where Weenie Lives (original; golden vessel, miniature city/landscape inside)",
+   "family": "visual_art",
+   "date": "2026-10-13",
+   "category": "World art",
+   "tier": "Core",
+   "logic_summary": "In book gallery — publication/release would raise value",
+   "key_mechanism": "In book gallery — publication/release would raise value",
+   "connects_to": []
+  },
+  {
+   "id": "c225",
+   "name": "Golden Mask Portrait (original; gold filigree mask/headdress)",
+   "family": "visual_art",
+   "date": "2026-10-13",
+   "category": "Character art",
+   "tier": "Core",
+   "logic_summary": "In book gallery — publication/release would raise value",
+   "key_mechanism": "In book gallery — publication/release would raise value",
+   "connects_to": []
+  },
+  {
+   "id": "c226",
+   "name": "Ornate Sphere Video — purple/gold puzzle globe",
+   "family": "video_media",
+   "date": "2026-10-13",
+   "category": "Video study",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": []
+  },
+  {
+   "id": "c227",
+   "name": "Globe/Sphere Study — gold medallion puzzle sphere (video)",
+   "family": "video_media",
+   "date": "2026-10-13",
+   "category": "Video study",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": []
+  },
+  {
+   "id": "c228",
+   "name": "Globe/Sphere Study — blue vessel with figure (video)",
+   "family": "video_media",
+   "date": "2026-10-13",
+   "category": "Video study",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": []
+  },
+  {
+   "id": "c229",
+   "name": "Globe/Sphere Study — mosaic puzzle sphere (video)",
+   "family": "video_media",
+   "date": "2026-10-13",
+   "category": "Video study",
+   "tier": "Supporting",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": []
+  },
+  {
+   "id": "c230",
+   "name": "The World of Mariahs Gem — Saga One Companion (living HTML page; 13 original art images, 5 videos, 45-scene storyboard)",
+   "family": "video_media",
+   "date": "2026-10-13",
+   "category": "Companion page",
+   "tier": "Reference",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": [
+    "c208",
+    "c209",
+    "c232",
+    "c246"
+   ]
+  },
+  {
+   "id": "c231",
+   "name": "Weenie's Friends — Copper Scout Design (original; copper armor, goggles, sun-wheel)",
+   "family": "visual_art",
+   "date": "2026-10-13",
+   "category": "Character art",
+   "tier": "Core",
+   "logic_summary": "Filed 2026-10-13; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": [
+    "c113",
+    "c136",
+    "c174",
+    "c187",
+    "c196",
+    "c197",
+    "c198",
+    "c199",
+    "c202",
+    "c203"
+   ]
+  },
+  {
+   "id": "c232",
+   "name": "Mariahs Gem: Saga One — Word Document (publication-ready .docx with cover, chapters, neutral-caption gallery)",
+   "family": "books_publishing",
+   "date": "2026-10-13 22:30 EDT",
+   "category": "Book / Document",
+   "tier": "Core",
+   "logic_summary": "Filed 2026-10-13 22:30 EDT; detail in source file",
+   "key_mechanism": "Publication/release would raise value",
+   "connects_to": [
+    "c208",
+    "c209",
+    "c230",
+    "c246"
+   ]
+  },
+  {
+   "id": "c233",
+   "name": "QUANTUM FRONTIER Brain — Partner Discovery and Suggestion Layers — AI-driven partner discovery, outreach, teaming agreements (FAR 9.6), workforce layers (WFRIL, IRFDL, CAFIR, FRSCIL, CASOP); terminal session record dated 08/01/2026, signed Alicia C Lacy — Alicia C. Lacy, CIS Data Analyst",
+   "family": "legal_business_sale",
+   "date": "Authored 2026-08-01 (per document); filed 2026-10-14 00:02 EDT",
+   "category": "System / Layers design",
+   "tier": "Flagship",
+   "logic_summary": "Partner discovery and suggestion layer: matches partners and surfaces suggestions across the ecosystem.",
+   "key_mechanism": "Partner discovery and suggestion layer: matches partners and surfaces suggestions across the ecosystem.",
+   "connects_to": [
+    "c003",
+    "c004",
+    "c024",
+    "c025",
+    "c034",
+    "c035",
+    "c036",
+    "c037",
+    "c038",
+    "c039"
+   ]
+  },
+  {
+   "id": "c234",
+   "name": "QUANTUM FRONTIER Brain — Collection cover sheet (Alicia C. Lacy, CIS Data Analyst; attribution statement for the collection)",
+   "family": "legal_business_sale",
+   "date": "Authored 2026-10-14; filed 2026-10-14 00:25 EDT",
+   "category": "Collection / Attribution",
+   "tier": "Supporting",
+   "logic_summary": "Collection branding for her technical creations",
+   "key_mechanism": "Collection branding for her technical creations",
+   "connects_to": [
+    "c003",
+    "c004",
+    "c024",
+    "c025",
+    "c034",
+    "c035",
+    "c036",
+    "c037",
+    "c038",
+    "c039"
+   ]
+  },
+  {
+   "id": "c235",
+   "name": "QUANTUM FRONTIER Brain — Full Manuscript (entire footprint across submitted artifacts: logic, discoveries, innovations; Alicia C. Lacy, CIS Data Analyst)",
+   "family": "books_publishing",
+   "date": "Authored 2026-10-14; filed 2026-10-14 00:30 EDT",
+   "category": "Manuscript / Book",
+   "tier": "Core",
+   "logic_summary": "Filed Authored 2026-10-14; filed 2026-10-14 00:30 EDT; detail in source file",
+   "key_mechanism": "Grows as further artifacts are submitted",
+   "connects_to": [
+    "c003",
+    "c004",
+    "c024",
+    "c025",
+    "c034",
+    "c035",
+    "c036",
+    "c037",
+    "c038",
+    "c039"
+   ]
+  },
+  {
+   "id": "c236",
+   "name": "QUANTUM FRONTIER Brain — Hybrid AI + Quantum Computing System (08-08-2026; Technical Value Statement, Stand-Alone Industry Edition; Alicia C. Lacy, CIS Data Analyst)",
+   "family": "foundation_systems",
+   "date": "Authored 2026-08-08 (per document); filed 2026-10-14 00:35 EDT",
+   "category": "System Architecture / Technical Value Statement",
+   "tier": "Flagship",
+   "logic_summary": "Hybrid AI + quantum computing system: merges AI reasoning with quantum processing; valued at $30M by Alicia.",
+   "key_mechanism": "Hybrid AI + quantum computing system: merges AI reasoning with quantum processing; valued at $30M by Alicia.",
+   "connects_to": [
+    "c003",
+    "c004",
+    "c024",
+    "c025",
+    "c034",
+    "c035",
+    "c036",
+    "c037",
+    "c038",
+    "c039"
+   ]
+  },
+  {
+   "id": "c237",
+   "name": "QUANTUM FRONTIER Brain — Quantum Governance Integration Paper — Apex Creation (2026-07-05; Alicia Lacy, Pennsylvania USA; governance framework for the hybrid AI-quantum sentinel architecture)",
+   "family": "foundation_systems",
+   "date": "Authored 2026-07-05 (per document); filed 2026-10-14 00:36 EDT",
+   "category": "Integration Paper / Governance Framework",
+   "tier": "Reference",
+   "logic_summary": "Companion governance paper to the Hybrid AI + Quantum Computing System (apex creation)",
+   "key_mechanism": "Companion governance paper to the Hybrid AI + Quantum Computing System (apex creation)",
+   "connects_to": [
+    "c003",
+    "c004",
+    "c024",
+    "c025",
+    "c034",
+    "c035",
+    "c036",
+    "c037",
+    "c038",
+    "c039"
+   ]
+  },
+  {
+   "id": "c238",
+   "name": "QUANTUM FRONTIER Brain — Hybrid AI and Quantum Computing Stack working notes (2026-07-05; Alicia Lacy; awareness action record, vendor stack positions, sole-dedicated-path endpoint quality framework, Apex Creation overview draft)",
+   "family": "foundation_systems",
+   "date": "Authored 2026-07-05 (per document); filed 2026-10-14 00:38 EDT",
+   "category": "Working Notes / Draft",
+   "tier": "Reference",
+   "logic_summary": "Working draft supporting the Apex Creation / Hybrid AI + Quantum Computing System",
+   "key_mechanism": "Working draft supporting the Apex Creation / Hybrid AI + Quantum Computing System",
+   "connects_to": [
+    "c003",
+    "c004",
+    "c024",
+    "c025",
+    "c034",
+    "c035",
+    "c036",
+    "c037",
+    "c038",
+    "c039"
+   ]
+  },
+  {
+   "id": "c239",
+   "name": "QUANTUM FRONTIER Brain — Xenia: 18-layer GODDESS AI interactive platform (HIP01, created 08-03-2026, proclaimed 08-07-2026 York PA)",
+   "family": "foundation_systems",
+   "date": "Authored 2026-08-03; proclaimed 2026-08-07; documented 2026-10-14",
+   "category": "Platform / Application",
+   "tier": "Core",
+   "logic_summary": "Physical manifestation of GODDESS AI patent in HTML form",
+   "key_mechanism": "Physical manifestation of GODDESS AI patent in HTML form",
+   "connects_to": [
+    "c003",
+    "c004",
+    "c006",
+    "c023",
+    "c024",
+    "c025",
+    "c034",
+    "c035",
+    "c036",
+    "c037"
+   ]
+  },
+  {
+   "id": "c240",
+   "name": "QUANTUM FRONTIER Brain — MYA-GEN STEM Ecosystem: Part Two of Frontier Coding, Vol. 1 (UUIDALICIACLACY, 09-23-2026)",
+   "family": "books_publishing",
+   "date": "Authored 2026-09-23; documented 2026-10-14",
+   "category": "Book / Ecosystem",
+   "tier": "Core",
+   "logic_summary": "Filed Authored 2026-09-23; documented 2026-10-14; detail in source file",
+   "key_mechanism": "Evolves toward full robotics",
+   "connects_to": [
+    "c003",
+    "c004",
+    "c024",
+    "c025",
+    "c034",
+    "c035",
+    "c036",
+    "c037",
+    "c038",
+    "c039"
+   ]
+  },
+  {
+   "id": "c241",
+   "name": "QUANTUM FRONTIER Brain — Vein Layer: 58-layer infrastructure architecture (16 core layers, 5 sovereign platforms, 6 execution nodes)",
+   "family": "foundation_systems",
+   "date": "Authored 2026; documented 2026-10-14",
+   "category": "Infrastructure / Architecture",
+   "tier": "Core",
+   "logic_summary": "$60M acquisition teaser prepared (VSN Vein Layer)",
+   "key_mechanism": "$60M acquisition teaser prepared (VSN Vein Layer)",
+   "connects_to": [
+    "c003",
+    "c004",
+    "c024",
+    "c025",
+    "c034",
+    "c035",
+    "c036",
+    "c037",
+    "c038",
+    "c039"
+   ]
+  },
+  {
+   "id": "c242",
+   "name": "QUANTUM FRONTIER Brain — Frontier Coding: The Complete Book — Brain, Vein & Ecosystem (09-23-2026)",
+   "family": "books_publishing",
+   "date": "Authored 2026-09-23; documented 2026-10-14",
+   "category": "Book / Trade book",
+   "tier": "Core",
+   "logic_summary": "Unifies Brain x Vein x Ecosystem; stated as payment source for her children",
+   "key_mechanism": "Unifies Brain x Vein x Ecosystem; stated as payment source for her children",
+   "connects_to": [
+    "c003",
+    "c004",
+    "c024",
+    "c025",
+    "c034",
+    "c035",
+    "c036",
+    "c037",
+    "c038",
+    "c039"
+   ]
+  },
+  {
+   "id": "c243",
+   "name": "QUANTUM FRONTIER Brain — Frontier Age of Prompting: freshman college curriculum, teacher + student editions (Family 161, 09-2026)",
+   "family": "prompting_measurement",
+   "date": "Authored 2026-09; documented 2026-10-14",
+   "category": "Curriculum / Book",
+   "tier": "Core",
+   "logic_summary": "Filed Authored 2026-09; documented 2026-10-14; detail in source file",
+   "key_mechanism": "15-week 3-credit course; concept-stage",
+   "connects_to": [
+    "c003",
+    "c004",
+    "c024",
+    "c025",
+    "c034",
+    "c035",
+    "c036",
+    "c037",
+    "c038",
+    "c039"
+   ]
+  },
+  {
+   "id": "c244",
+   "name": "QUANTUM FRONTIER Brain — I Myriad FM: independent creator-owned media station (IMNX Tech News, podcast, Nova Skyy, Goddess Myriad personas)",
+   "family": "video_media",
+   "date": "Documented 2026-10-05; manuscript 2026-10-14",
+   "category": "Media / Platform",
+   "tier": "Core",
+   "logic_summary": "Hash-chained provenance ledgers seal artist identity/voice/likeness",
+   "key_mechanism": "Hash-chained provenance ledgers seal artist identity/voice/likeness",
+   "connects_to": [
+    "c003",
+    "c004",
+    "c006",
+    "c011",
+    "c019",
+    "c020",
+    "c022",
+    "c023",
+    "c024",
+    "c025"
+   ]
+  },
+  {
+   "id": "c245",
+   "name": "QUANTUM FRONTIER Brain — Music catalog: ~50 original songs, BMI-matched, her voice on every track",
+   "family": "music_songcraft",
+   "date": "Various; catalog matched 2026-10-02; manuscript 2026-10-14",
+   "category": "Music catalog",
+   "tier": "Supporting",
+   "logic_summary": "Filed Various; catalog matched 2026-10-02; manuscript 2026-10-14; detail in source file",
+   "key_mechanism": "Goddess Myriad leads as AI persona",
+   "connects_to": [
+    "c003",
+    "c004",
+    "c024",
+    "c025",
+    "c034",
+    "c035",
+    "c036",
+    "c037",
+    "c038",
+    "c039"
+   ]
+  },
+  {
+   "id": "c246",
+   "name": "QUANTUM FRONTIER Brain — Copper Kingdom universe / Mariahs Gem: Saga One (children's book, published 10-13-2026, Goddess Myriad Publishing Co.)",
+   "family": "books_publishing",
+   "date": "Published 2026-10-13; manuscript 2026-10-14",
+   "category": "Book / Universe",
+   "tier": "Core",
+   "logic_summary": "Dedicated to granddaughter; transmedia universe: book, art, video, storyboard",
+   "key_mechanism": "Dedicated to granddaughter; transmedia universe: book, art, video, storyboard",
+   "connects_to": [
+    "c003",
+    "c004",
+    "c006",
+    "c011",
+    "c023",
+    "c024",
+    "c025",
+    "c034",
+    "c035",
+    "c036"
+   ]
+  },
+  {
+   "id": "c247",
+   "name": "QUANTUM FRONTIER Brain — Estate Valuation Report (168 creations) + Final Sunset Closure ($93.5M, 09-2026, signed)",
+   "family": "legal_business_sale",
+   "date": "Authored 2026-09-28; documented 2026-10-14",
+   "category": "Valuation / Legal",
+   "tier": "Core",
+   "logic_summary": "USD — HER stated sunset figure (Final Sunset Closure)",
+   "key_mechanism": "Weighted formula: C30/M25/S20/A15/U10",
+   "connects_to": [
+    "c003",
+    "c004",
+    "c024",
+    "c025",
+    "c034",
+    "c035",
+    "c036",
+    "c037",
+    "c038",
+    "c039"
+   ]
+  },
+  {
+   "id": "c248",
+   "name": "QUANTUM FRONTIER Brain — Hybrid AI + Quantum Computing System (08-08-2026; HER $30M; apex creation)",
+   "family": "foundation_systems",
+   "date": "Authored 2026-08-08; filed 2026-10-14",
+   "category": "System / Architecture",
+   "tier": "Flagship",
+   "logic_summary": "Formal hybrid AI and quantum computing stack creation record, authored July 5, 2026.",
+   "key_mechanism": "Formal hybrid AI and quantum computing stack creation record, authored July 5, 2026.",
+   "connects_to": [
+    "c003",
+    "c004",
+    "c024",
+    "c025",
+    "c034",
+    "c035",
+    "c036",
+    "c037",
+    "c038",
+    "c039"
+   ]
+  },
+  {
+   "id": "c249",
+   "name": "QUANTUM FRONTIER Brain — Quantum Governance Integration Paper: Apex Creation (07-05-2026, Pennsylvania)",
+   "family": "formulas_research",
+   "date": "Authored 2026-07-05; filed 2026-10-14",
+   "category": "Paper / Framework",
+   "tier": "Reference",
+   "logic_summary": "Governance companion to Hybrid AI+Quantum: jurisdiction-to-computation translation, 5 principles",
+   "key_mechanism": "Governance companion to Hybrid AI+Quantum: jurisdiction-to-computation translation, 5 principles",
+   "connects_to": [
+    "c003",
+    "c004",
+    "c024",
+    "c025",
+    "c034",
+    "c035",
+    "c036",
+    "c037",
+    "c038",
+    "c039"
+   ]
+  },
+  {
+   "id": "c250",
+   "name": "QUANTUM FRONTIER Brain — Hybrid AI + Quantum Stack working notes (verbatim working draft, 07-05-2026; appendix to Apex Creation)",
+   "family": "foundation_systems",
+   "date": "Authored 2026-07-05; filed 2026-10-14",
+   "category": "Working notes / Draft",
+   "tier": "Reference",
+   "logic_summary": "Verbatim: awareness action record, vendor stack positions, 3-layer thesis, sole-path eCQM example, Apex overview draft",
+   "key_mechanism": "Verbatim: awareness action record, vendor stack positions, 3-layer thesis, sole-path eCQM example, Apex overview draft",
+   "connects_to": [
+    "c003",
+    "c004",
+    "c024",
+    "c025",
+    "c034",
+    "c035",
+    "c036",
+    "c037",
+    "c038",
+    "c039"
+   ]
+  },
+  {
+   "id": "c251",
+   "name": "QUANTUM FRONTIER Brain — 58-Layer VEIN LAYER Architecture (Created by Alicia C. Lacy; 16 core groups, 58 governance layers, 5 sovereign platforms, 6 execution nodes; interactive HTML)",
+   "family": "foundation_systems",
+   "date": "Filed 2026-10-14 00:40 EDT",
+   "category": "System Architecture",
+   "tier": "Core",
+   "logic_summary": "DISTINCT from the 49-layer HR SOURCE AMTD ecosystem — 58 layers, not 49 (Alicia's correction)",
+   "key_mechanism": "DISTINCT from the 49-layer HR SOURCE AMTD ecosystem — 58 layers, not 49 (Alicia's correction)",
+   "connects_to": [
+    "c003",
+    "c004",
+    "c024",
+    "c025",
+    "c034",
+    "c035",
+    "c036",
+    "c037",
+    "c038",
+    "c039"
+   ]
+  },
+  {
+   "id": "c252",
+   "name": "QUANTUM FRONTIER Brain — Xenia Innovators full-stack site build with DeepSeek (08-04-2026; Alicia C. Lacy; Node/Express/Sequelize backend, JWT+HIP auth, Stripe payments, consent-gated innovation marketplace, affiliate earnings, Docker)",
+   "family": "foundation_systems",
+   "date": "Authored 2026-08-04 (per document); filed 2026-10-14 00:42 EDT",
+   "category": "Software / Full-Stack Build",
+   "tier": "Core",
+   "logic_summary": "Production-ready marketplace for buying/selling innovations; 10% platform commission",
+   "key_mechanism": "Production-ready marketplace for buying/selling innovations; 10% platform commission",
+   "connects_to": [
+    "c003",
+    "c004",
+    "c023",
+    "c024",
+    "c025",
+    "c034",
+    "c035",
+    "c036",
+    "c037",
+    "c038"
+   ]
+  },
+  {
+   "id": "c253",
+   "name": "QUANTUM FRONTIER Brain — Hybrid AI and Quantum Computing Stack FORMAL creation (July 5, 2026; Alicia C Lacy DBA I MYRIAD FM YORK PA; 13-section formal document: architecture, vine-layer, sentinel/orbital, manufacturing $10.5M, energy, partnerships, separation clause, sunset declaration; $30M USD final; patent submission)",
+   "family": "foundation_systems",
+   "date": "Authored 2026-07-05 (per document); filed 2026-10-14 00:45 EDT",
+   "category": "Formal Creation Document",
+   "tier": "Flagship",
+   "logic_summary": "Hybrid AI and quantum computing stack patent record: 13-section architecture with vine-layer cooling.",
+   "key_mechanism": "Hybrid AI and quantum computing stack patent record: 13-section architecture with vine-layer cooling.",
+   "connects_to": [
+    "c003",
+    "c004",
+    "c011",
+    "c024",
+    "c025",
+    "c034",
+    "c035",
+    "c036",
+    "c037",
+    "c038"
+   ]
+  },
+  {
+   "id": "c254",
+   "name": "QUANTUM FRONTIER Brain — Infrastructure & Ecosystem Bundle AS-IS Sale Summary (I MYRIAD FM YORK; prepared 2026-09-02, Confidential; physical assets, FCC license ECO-011, digital/brand assets, IP, BMI/ASCAP/SESAC licenses, advertiser contracts ECO-014 at $18,500; as-is transfer terms)",
+   "family": "legal_business_sale",
+   "date": "Prepared 2026-09-02 (per document); filed 2026-10-14 00:56 EDT",
+   "category": "Sale Summary / Asset Bundle",
+   "tier": "Supporting",
+   "logic_summary": "FCC license transfers via Form 314; due diligence package listed; as-is disclaimer",
+   "key_mechanism": "FCC license transfers via Form 314; due diligence package listed; as-is disclaimer",
+   "connects_to": [
+    "c003",
+    "c004",
+    "c011",
+    "c024",
+    "c025",
+    "c034",
+    "c035",
+    "c036",
+    "c037",
+    "c038"
+   ]
+  },
+  {
+   "id": "c255",
+   "name": "QUANTUM FRONTIER Brain — MYA-GEN STEM Ecosystem Grant Proposal FY2026-2027 (May 2026, Confidential; multi-year adaptive STEM ecosystem for underserved learners ages 8-18; CORRECTED attribution: Prepared By Alicia C. Lacy — original read \"Lacy\" only)",
+   "family": "legal_business_sale",
+   "date": "Prepared 2026-05 (per document); filed 2026-10-14 01:00 EDT",
+   "category": "Grant Proposal",
+   "tier": "Core",
+   "logic_summary": "Attribution restored to full name per her authorship rule; corrected copy: MYA-GEN_STEM_Ecosystem_Grant_Proposal-2026-05-corrected.docx",
+   "key_mechanism": "Attribution restored to full name per her authorship rule; corrected copy: MYA-GEN_STEM_Ecosystem_Grant_Proposal-2026-05-corrected.docx",
+   "connects_to": [
+    "c003",
+    "c004",
+    "c024",
+    "c025",
+    "c034",
+    "c035",
+    "c036",
+    "c037",
+    "c038",
+    "c039"
+   ]
+  },
+  {
+   "id": "c256",
+   "name": "QUANTUM FRONTIER Brain — VSN Vein Layer Clean Exit Term Sheet (Asset Acquisition; May 6, 2026; Alicia Camille Lacy, Seller; 58-layer architecture + VSN docs + Goddess-Myriad-AI + Unified Physical Equation + Multi-Node Execution Map + Diaspora Licensing Engine + BLEIU Vault; $60,000,000 USD FIRM, lump-sum wire; name/identity/authorship PERMANENTLY EXCLUDED)",
+   "family": "foundation_systems",
+   "date": "Prepared 2026-05-06 (per document); filed 2026-10-14 01:02 EDT",
+   "category": "Term Sheet / Asset Acquisition",
+   "tier": "Core",
+   "logic_summary": "Buyer must acknowledge Alicia Camille Lacy as author; her name, identity, likeness, biometrics, voice permanently excluded from sale",
+   "key_mechanism": "Buyer must acknowledge Alicia Camille Lacy as author; her name, identity, likeness, biometrics, voice permanently excluded from sale",
+   "connects_to": [
+    "c003",
+    "c004",
+    "c006",
+    "c011",
+    "c023",
+    "c024",
+    "c025",
+    "c034",
+    "c035",
+    "c036"
+   ]
+  },
+  {
+   "id": "c257",
+   "name": "QUANTUM FRONTIER Brain — VSN Vein Layer Buyer Outreach Emails (5-email cold outreach package; May 6, 2026; Alicia Camille Lacy; targets: AWS/Azure/Oracle, IBM/Google/Anthropic/OpenAI, Adobe/Spotify/YouTube, African Union/CARICOM/Malta/Singapore/Estonia/SWFs, PE/IP holders; $60M ask; counsel-distribution only, attorney-client privileged)",
+   "family": "foundation_systems",
+   "date": "Prepared 2026-05-06 (per document); filed 2026-10-14 01:05 EDT",
+   "category": "Buyer Outreach Package",
+   "tier": "Core",
+   "logic_summary": "Package states emails go through seller's counsel or M&A broker — never sent directly by seller",
+   "key_mechanism": "Package states emails go through seller's counsel or M&A broker — never sent directly by seller",
+   "connects_to": [
+    "c003",
+    "c004",
+    "c024",
+    "c025",
+    "c034",
+    "c035",
+    "c036",
+    "c037",
+    "c038",
+    "c039"
+   ]
+  },
+  {
+   "id": "c258",
+   "name": "Voice metadata — 150 utterances TTS training data (exclamations/questions/common phrases/statements; phoneme sequences + transcriptions; en-US; ~7 min estimated audio; all records clean)",
+   "family": "ai_persona_identity",
+   "date": "Filed 2026-10-14 01:20 EDT",
+   "category": "Voice Data / TTS Training",
+   "tier": "Supporting",
+   "logic_summary": "Checked: 150 utterances, no duplicates, no missing fields, valid durations",
+   "key_mechanism": "Checked: 150 utterances, no duplicates, no missing fields, valid durations",
+   "connects_to": []
+  },
+  {
+   "id": "c259",
+   "name": "Red Sun — song (lyrics + arrangement), written/arranged Alicia C Lacy, 2026-10-18",
+   "family": "music_songcraft",
+   "date": "2026-10-18",
+   "category": "Song / Composition",
+   "tier": "Core",
+   "logic_summary": "Original song: her lyrics, her chord/instrument arrangement, her score direction. Filed in the songs goal folder; BMI registration pending her action.",
+   "key_mechanism": "Original song: her lyrics, her chord/instrument arrangement, her score direction.",
+   "connects_to": []
+  },
+  {
+   "id": "c260",
+   "name": "User to Token System — user creates user name, added to token registry in her system with user name, then added to H01 system within her creation; serial numbers added to user name",
+   "family": "foundation_systems",
+   "date": "2026-10-18",
+   "category": "System / Identity",
+   "tier": "Core",
+   "logic_summary": "Her identity flow in her words: user creates user name -> added to token registry in her system with user name -> added to H01 system within her creation -> serial numbers added to user name. The front door of her AI.io; users stem as new families.",
+   "key_mechanism": "User name -> token registry -> H01 system -> serial numbers attached to user name.",
+   "connects_to": [
+    "c001"
+   ]
+  },
+  {
+   "id": "c261",
+   "name": "UDAB — The World Model for Black Wealth Gap Reduction — professional/scholastic book (157-page finished manuscript: layered-contour cover, core framework, wealth-gap formula, world model, statistics appendix, Appendix B full explanation, Appendix C definitions, closing provenance; GFNT DNA excluded per her direction)",
+   "family": "blockchain_fintech",
+   "date": "2026-10-20",
+   "category": "Book / Nonfiction",
+   "tier": "Core",
+   "logic_summary": "UDAB book: the world model for Black wealth gap reduction, 157-page finished manuscript, layered-contour cover, core framework, wealth-gap formula, world model, statistics appendix. GFNT DNA excluded per her direction.",
+   "key_mechanism": "Layered world model + wealth-gap formula + statistics appendix, in book form.",
+   "connects_to": [
+    "c080",
+    "c105",
+    "c106"
+   ]
+  },
+  {
+   "id": "c262",
+   "name": "Talulah — Power Beaming and Billing Formulas",
+   "family": "formulas_research",
+   "date": "2026-10-26",
+   "category": "Talulah",
+   "tier": "",
+   "logic_summary": "Satellite solar arrays generate power, convert DC to RF or laser, and beam it to ground rectenna domes, with constellation sizing for continuous power and billable pricing per kWh, per dome, per user, government at cost, and a critical-customer tier. Filed October 26, 2026; draft tracker row 279, not live-logged.",
+   "key_mechanism": "P_gen = A x G x eta_array; P_del = P_gen x eta_end; N = ceil(S / P_sat_bar); billing from annualized capital + operating cost. Per-dome logic: S = 10 kW per dome, 39 serviceable domes.",
+   "connects_to": [
+    "c241",
+    "c251"
+   ]
+  },
+  {
+   "id": "c263",
+   "name": "Secure Optical Relay — satellite-to-satellite light-signal transfer (unnamed)",
+   "family": "foundation_systems",
+   "date": "2026-10-27",
+   "category": "Secure Optical Relay",
+   "tier": "",
+   "logic_summary": "Dedicated light-signal (laser) transfer, satellite to satellite, for federal and state services: a moving LEO chain, steady real-time relay without delay, distributed so no single satellite holds the full route, IP, or location. 39 signal transfers. Final name hers to give; partner rule is US-based operators only, no company named.",
+   "key_mechanism": "Ping -> Lock -> Flow -> Ping next -> Handoff before break; dome connection integrates solar + UG backup + battery backup.",
+   "connects_to": [
+    "c262",
+    "c241"
+   ]
+  },
+  {
+   "id": "c264",
+   "name": "Dashia's Halloween — Chapter Three + Final (her voice)",
+   "family": "video_media",
+   "date": "2026-10-30",
+   "category": "Dashia's Halloween",
+   "tier": "",
+   "logic_summary": "Chapter Three, Scenes 11-19, in her voice (106.2 seconds), plus a happy Final in her voice (32.7 seconds) in which Dashia runs home, her mother checks the candy first and gives her the big Hershey bar, and the narrator closes with a candy-check safety message. Skeleton closing card stays static, never animated. Scene 20, The Gate, remains unrecorded.",
+   "key_mechanism": "Her narration over existing clips and stills, Skeleton card static at the end, her voice only, no substitute voice.",
+   "connects_to": [
+    "c166"
+   ]
+  },
+  {
+   "id": "c265",
+   "name": "Mariahs Gem: Saga One — straight text-only book",
+   "family": "books_publishing",
+   "date": "2026-10-29",
+   "category": "Mariahs Gem",
+   "tier": "",
+   "logic_summary": "Published version is a straight, text-only book with all pictures dropped, per her decision October 29, 2026. The pictured original (12 images, October 13, 2026) is kept safe and untouched.",
+   "key_mechanism": "Text-only EPUB, 0 images, chapters verified word-for-word against the original.",
+   "connects_to": [
+    "c246"
+   ]
+  },
+  {
+   "id": "c266",
+   "name": "KP NeX — The Complete Research Governance System",
+   "family": "foundation_systems",
+   "date": "2026-10-25",
+   "category": "KP NeX",
+   "tier": "",
+   "logic_summary": "Publication manuscript for book entry and Pub Pat, authored by her October 24, 2026, 11:11 PM EDT. Exactly 14 layers, with everything else routing through them; manuscript states a 99.7% global readiness score, which is manuscript-stated, not a verified real-world value. Draft document; PDF vs working-doc vs edits decision pending.",
+   "key_mechanism": "Approved if FourPartTest and ICD9Criteria and Vein58 and Xenia; denied if any gate fails; pending if documentation required.",
+   "connects_to": [
+    "c239",
+    "c241"
+   ]
+  },
+  {
+   "id": "c267",
+   "name": "Frontier Coding: AI Harms — study and book",
+   "family": "books_publishing",
+   "date": "2026-10-20",
+   "category": "Frontier Coding",
+   "tier": "",
+   "logic_summary": "AI Harms study (77 pages) and book (110 pages), 48 case studies, 49 definitions, cover 'PROOF BY CASES'. Doctrine: prepare for the unexpected; Proof by Cases; Monitor, Block, Isolate, Report; BlockSeal Code, Author, Date, Time Stamp, System.",
+   "key_mechanism": "Case-study proof: each harm is shown by cases, with definitions, monitoring, blocking, isolation, and immediate reporting.",
+   "connects_to": [
+    "c034",
+    "c241"
+   ]
+  },
+  {
+   "id": "c268",
+   "name": "UDAB — full manuscript",
+   "family": "blockchain_fintech",
+   "date": "2026-10-20",
+   "category": "UDAB",
+   "tier": "",
+   "logic_summary": "Audit group entry for the same 157-page UDAB manuscript as c261 — not a second UDAB book. Listed here so the brain matches the 271-line database; the manuscript itself is counted once as a work, under c261.",
+   "key_mechanism": "Same manuscript as c261: world model for Black wealth gap reduction.",
+   "connects_to": [
+    "c261",
+    "c105"
+   ]
+  },
+  {
+   "id": "c269",
+   "name": "IRC41 Data Center Tax Credit Report",
+   "family": "formulas_research",
+   "date": "2026-10-24",
+   "category": "IRC41 Report",
+   "tier": "",
+   "logic_summary": "Data center tax credit report, BlockSeal IRC41-2027-LOOP-2026-10-24, with her formulas verbatim. Dollar figures are screenshot-sourced and unverified; primary-source verification still open. Draft tracker row 278, not live-logged.",
+   "key_mechanism": "TC_internal = (QRE_current - (0.50 x QRE_3-Year Avg)) x 14%; Gain_q = Gain_0 x (1 + g)^q x epsilon.",
+   "connects_to": [
+    "c266"
+   ]
+  },
+  {
+   "id": "c270",
+   "name": "Soul Synthesis Volume 1 — release materials",
+   "family": "music_songcraft",
+   "date": "2026-11",
+   "category": "Soul Synthesis",
+   "tier": "",
+   "logic_summary": "19-track collection, releasing first week of November 2026, her real voice throughout, production completed October 15, 2026. Tracklist, upload checklist, cue sheets (publisher, splits, duration, ISRC blank for her), and title clearance. Songs submitted to BMI October 21, 2026; posting verification still to follow with her. No finished holiday songs found in workspace files.",
+   "key_mechanism": "Her voice on every track, BMI only, never ASCAP, SongTrust only, publishing 100% to futures.",
+   "connects_to": [
+    "c245"
+   ]
+  },
+  {
+   "id": "c271",
+   "name": "Lotus Collection — founder film (her voice)",
+   "family": "video_media",
+   "date": "2026-10-21",
+   "category": "Lotus",
+   "tier": "",
+   "logic_summary": "Founder film for her Lotus Collection design (glowing blue lotus + 'Goddess Myriad Co' script), in her real voice.",
+   "key_mechanism": "Her voice over the Lotus design and products.",
+   "connects_to": [
+    "c166"
+   ]
+  }
+ ]
+}

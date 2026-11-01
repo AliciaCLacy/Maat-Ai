@@ -3,7 +3,7 @@
 **Authored Alicia C. Lacy. All rights reserved.**
 
 The living brain of Alicia C. Lacy's creations — Phase 1 is the browsable,
-searchable library of all 259 creations. No build step. No paid services.
+searchable library of all 271 creations. No build step. No paid services.
 Deploys to any free static host as-is.
 
 ## What it is
@@ -13,7 +13,7 @@ A static web app (HTML/CSS/JS) with three views:
 - **Home** — Goddess Myriad greets visitors in her voice, shows library stats,
   and holds the Phase 2 slots (Talk panel + Support/Membership, both marked
   "coming with Phase 2").
-- **Library** — all 259 creations in a searchable, filterable beveled grid.
+- **Library** — all 271 creations in a searchable, filterable beveled grid.
   Click any card for its detail (name, category, date, status, author).
   Titles are verbatim from the tracker — never reworded.
 - **About** — the authorship story: dates + authorship, nothing ever removed.
@@ -77,27 +77,6 @@ Phase 1 is deliberately the living library only. Phase 2 adds:
 Phase 2 keeps the 100% rule: her code, her domain, her data — no backend
 lock-in. The static Phase 1 shell stays exactly as-is underneath.
 
-## AI Harm Protection
-
-The protection layer of this system, added 2026-10-20 from her book
-*Frontier Coding — AI Harms: A Study in People's Rights and Protections*
-(Alicia C. Lacy, Oct 20, 2026). Her law: **protect first, no matter the
-prompt** — a think-before-you-act system. The layer monitors, blocks,
-isolates, and reports immediately; it routes every harm instance to its
-assigned prevention vein and seals works with the BlockSeal watermark
-(Code · Author · Date · Time Stamp · System). It lives in
-[`ai-harm-protection/`](ai-harm-protection/) — one living system, with
-the protection in the circulation itself.
-
-**Formula Comptrix** (added 2026-10-20): the brain's detection-to-formula
-record. Tied into the copyright and patent systems, the brain detects new
-models, creations, formulas, and systems by matching (her term: *six nacis
-patent dms*), makes the formula mathematically, and issues the record in her
-field order — Date · Time stamp · Patent Type · Creator name · Summary ·
-Uses · Examples · Industry — with the records aggregating to gauge economics,
-GDP movement, new industries, and phasing-out industries. It lives in
-[`formula-comptrix/`](formula-comptrix/).
-
 ## Rules (hers)
 
 - Her titles and names verbatim — never reworded or inferred down.
@@ -107,3 +86,9 @@ GDP movement, new industries, and phasing-out industries. It lives in
   "duplicates" — moved, never deleted.
 - Nothing invented: only what's in the tracker CSV and her files.
   Anything unclear is marked `TODO (Alicia)`.
+
+## November 1, 2026 update
+- Library updated 259 → 271 works (Alicia C Lacy Works Database), including the 10 newer works and the two tracker rows brain.json had missed (c260 User to Token, c261 UDAB book).
+- Brain layer updated to 271: brain.json, brain.min.json, brain-index.json, brain-creations-1.json (c001-c129), brain-creations-2.json (c130-c271).
+- Home now plays her voice greeting: voice-goddess-myriad-greeting-2026-11-01.mp3 — "Hello, this is the voice of Goddess Myriad AIIO. How may I assist you today?" (7.24 seconds, November 1, 2026). The audio file itself is binary and is added to the repo via GitHub web upload, not via the text-only snapshot push — the Home wiring points to that filename, so it plays once the file lands in the same folder.
+- Brain stays private until she says launch.
