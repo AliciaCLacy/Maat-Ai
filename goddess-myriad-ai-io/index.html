@@ -19,6 +19,7 @@
     <nav class="nav-links">
       <button data-view="home" class="active">Home</button>
       <button data-view="library">Library</button>
+      <button data-view="talk">Talk</button>
       <button data-view="about">About</button>
     </nav>
   </div>
@@ -87,6 +88,53 @@
     </section>
   </div>
 
+  <!-- ============ TALK: conversation response layer ============ -->
+  <div class="view" id="view-talk">
+    <section class="block">
+      <h2 id="talkTitle">Ask Goddess Myriad</h2>
+      <p id="talkIntro">I answer from Alicia's own works only. If nothing matches, I will say so — nothing invented.</p>
+      <div class="controls">
+        <label>Input language
+          <select id="inLang" aria-label="Input language">
+            <option value="en">English</option>
+            <option value="es">Español</option>
+            <option value="fr">Français</option>
+            <option value="pt">Português</option>
+          </select>
+        </label>
+        <label>Output language
+          <select id="outLang" aria-label="Output language">
+            <option value="en">English</option>
+            <option value="es">Español</option>
+            <option value="fr">Français</option>
+            <option value="pt">Português</option>
+          </select>
+        </label>
+      </div>
+      <div class="controls">
+        <input type="search" id="talkInput" placeholder="Ask about a creation, a category, or a date…" aria-label="Ask Goddess Myriad">
+        <button id="talkVoice" type="button">🎤 Voice input</button>
+        <button id="talkAsk" type="button">Ask</button>
+      </div>
+      <p><strong>Prompting suggestions — try one, then edit it in your own words:</strong></p>
+      <div class="controls" id="talkSuggestions">
+        <button type="button" data-suggest="H01">H01 — show me the origin</button>
+        <button type="button" data-suggest="Talulah">Talulah — power beaming</button>
+        <button type="button" data-suggest="KP NeX">KP NeX — 14 layers</button>
+        <button type="button" data-suggest="Dashia Halloween">Dashia's Halloween</button>
+        <button type="button" data-suggest="Soul Synthesis">Soul Synthesis — music</button>
+        <button type="button" data-suggest="UDAB">UDAB — wealth gap</button>
+        <button type="button" data-suggest="Measure: how many layers does Vein Layer have?">Measure it: layers in Vein Layer</button>
+        <button type="button" data-suggest="Urban prompting: tell me about Goddess Myriad in my voice">Urban prompting: in my voice</button>
+        <button type="button" data-suggest="Acronym prompting: H01">Acronym prompting: H01</button>
+        <button type="button" data-suggest="Voice to prompt: Goddess Myriad">Voice to prompt</button>
+      </div>
+      <div id="talkOutput" class="bevel"><div class="empty">Ask above, or tap a suggestion. Answers come from her library only.</div></div>
+      <p class="note" id="talkVoiceNote">Voice input uses your browser, if it supports it. Voice output is her recorded greeting only — her voice is never synthesized or cloned here.</p>
+      <p class="note" id="talkLangNote">Work titles stay verbatim, in their filed language. Only these framing sentences change with output language.</p>
+    </section>
+  </div>
+
   <!-- ============ ABOUT ============ -->
   <div class="view" id="view-about">
     <section class="block about-copy">
@@ -123,5 +171,6 @@
 </footer>
 
 <script src="app.js"></script>
+<script src="conversation.js"></script>
 </body>
 </html>

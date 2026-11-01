@@ -92,3 +92,9 @@ lock-in. The static Phase 1 shell stays exactly as-is underneath.
 - Brain layer updated to 271: brain.json, brain.min.json, brain-index.json, brain-creations-1.json (c001-c129), brain-creations-2.json (c130-c271).
 - Home now plays her voice greeting: voice-goddess-myriad-greeting-2026-11-01.mp3 — "Hello, this is the voice of Goddess Myriad AIIO. How may I assist you today?" (7.24 seconds, November 1, 2026). The audio file itself is binary and is added to the repo via GitHub web upload, not via the text-only snapshot push — the Home wiring points to that filename, so it plays once the file lands in the same folder.
 - Brain stays private until she says launch.
+
+## November 1, 2026 — Conversation Response Layer
+- New Talk view: conversation.js + conversation-layer.md. Answers only from creations.json (271 works, verbatim titles); no LLM API, no paid service.
+- Prompting suggestions: measurement, urban, acronym, voice-to-prompt, plus H01, Talulah, KP NeX, Dashia, Soul Synthesis, UDAB.
+- Multilanguage input/output: English, Spanish, French, Portuguese. Input sets the search/voice language; output changes only the framing sentences — work titles stay verbatim and are never translated.
+- Voice input via browser speech recognition if supported; voice output is her recorded greeting only, never synthesized or cloned.
