@@ -98,3 +98,8 @@ lock-in. The static Phase 1 shell stays exactly as-is underneath.
 - Prompting suggestions: measurement, urban, acronym, voice-to-prompt, plus H01, Talulah, KP NeX, Dashia, Soul Synthesis, UDAB.
 - Multilanguage input/output: English, Spanish, French, Portuguese. Input sets the search/voice language; output changes only the framing sentences — work titles stay verbatim and are never translated.
 - Voice input via browser speech recognition if supported; voice output is her recorded greeting only, never synthesized or cloned.
+
+## November 1, 2026 — Cultural Ambassador, simple Talk
+- Goddess Myriad is a cultural ambassador: bridges culture, first model of its kind, houses and builds from past to present, especially for Black Americans. Cultural knowledge pulls from fact-based resources, never speculation.
+- Talk simplified to prompt, answer, conversation. The world does NOT see the build, brain markup, internal codes, families, or portions — those stay private. Talk answers now list work names only, verbatim, with no counts or markup.
+- See cultural-ambassador.md.

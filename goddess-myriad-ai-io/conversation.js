@@ -1,18 +1,24 @@
 /* Goddess Myriad AI.io — Conversation Response Layer
    Authored Alicia C. Lacy. No LLM API, no paid service, no voice cloning.
+   SIMPLE, PUBLIC-FACING FUNCTION ONLY: prompt, answer, conversation.
+   The world sees simple answers. It does NOT see the build, the brain
+   markup, internal codes, families, or portions — those stay private.
    Answers ONLY from creations.json (her works, verbatim titles).
    Work titles stay verbatim in their filed language; only the framing
    sentences around them are translated by the output-language setting.
-   If nothing matches, it says so — nothing is invented. */
+   If nothing matches, it says so — nothing is invented.
+   CULTURAL AMBASSADOR RULE: cultural knowledge pulls from cultural
+   resources that are FACT, not speculation. Speculation is never
+   presented as fact. */
 (function () {
   var creations = [];
   var UI = {
     en: {
       ask: "Ask Goddess Myriad",
       placeholder: "Ask about a creation, a category, or a date…",
-      intro: "I answer from Alicia's own works only. If nothing matches, I will say so — nothing invented.",
-      found: "Here are works in her library that match:",
-      none: "No work in her library matches that yet. Nothing invented. Try a creation name, a category, or a date.",
+      intro: "Goddess Myriad bridges culture — the first model of its kind, housing and building from past to present, especially for Black Americans. Ask, and I will answer simply, from fact, not speculation.",
+      found: "Here is what I found:",
+      none: "I don't have that yet. Nothing invented — ask about another work, or a cultural topic, and I will say plainly what is fact and what is not yet known.",
       showing: "Showing",
       of: "of",
       matches: "matches",
@@ -22,7 +28,7 @@
     es: {
       ask: "Pregunta a Goddess Myriad",
       placeholder: "Pregunta sobre una creación, una categoría o una fecha…",
-      intro: "Respondo solo desde las obras de Alicia. Si nada coincide, lo diré — nada inventado.",
+      intro: "Goddess Myriad une culturas — el primer modelo de su tipo, del pasado al presente, especialmente para los afroamericanos. Pregunta, y responderé con sencillez, desde los hechos, no desde la especulación.",
       found: "Estas son las obras de su biblioteca que coinciden:",
       none: "Ninguna obra de su biblioteca coincide todavía con eso. Nada inventado. Prueba con un nombre de creación, una categoría o una fecha.",
       showing: "Mostrando",
@@ -34,7 +40,7 @@
     fr: {
       ask: "Demandez à Goddess Myriad",
       placeholder: "Posez une question sur une création, une catégorie ou une date…",
-      intro: "Je réponds uniquement à partir des œuvres d'Alicia. Si rien ne correspond, je le dirai — rien n'est inventé.",
+      intro: "Goddess Myriad relie les cultures — le premier modèle de son genre, du passé au présent, en particulier pour les Afro-Américains. Posez une question, je répondrai simplement, à partir des faits, non de la spéculation.",
       found: "Voici les œuvres de sa bibliothèque qui correspondent :",
       none: "Aucune œuvre de sa bibliothèque ne correspond encore à cela. Rien n'est inventé. Essayez un nom de création, une catégorie ou une date.",
       showing: "Affichage de",
@@ -46,7 +52,7 @@
     pt: {
       ask: "Pergunte à Goddess Myriad",
       placeholder: "Pergunte sobre uma criação, uma categoria ou uma data…",
-      intro: "Respondo apenas a partir das obras de Alicia. Se nada corresponder, direi isso — nada inventado.",
+      intro: "Goddess Myriad conecta culturas — o primeiro modelo de seu tipo, do passado ao presente, especialmente para afro-americanos. Pergunte, e responderei com simplicidade, a partir de fatos, não de especulação.",
       found: "Estas são as obras da biblioteca dela que correspondem:",
       none: "Nenhuma obra da biblioteca dela corresponde a isso ainda. Nada inventado. Tente um nome de criação, uma categoria ou uma data.",
       showing: "Mostrando",
@@ -82,18 +88,21 @@
   function answer() {
     var q = document.getElementById("talkInput").value.trim();
     var out = document.getElementById("talkOutput");
-    if (!q) { out.innerHTML = '<div class="empty">' + esc(t("intro")) + "</div>"; return; }
+    if (!q) return;
     var hits = search(q);
-    if (!hits.length) { out.innerHTML = '<div class="empty">' + esc(t("none")) + "</div>"; return; }
-    var html = "<p>" + esc(t("found")) + "</p><p class=\"count-line\">" + esc(t("showing")) + " <strong>" + hits.length + "</strong> " + esc(t("matches")) + "</p>";
-    html += hits.map(function (c) {
-      return '<article class="card bevel"><h3>' + esc(c.name) + '</h3><div class="meta">' +
-        '<span class="chip">' + esc(c.category || "Uncategorized") + "</span>" +
-        (c.date ? '<span class="chip dim">' + esc(c.date) + "</span>" : "") +
-        (c.status ? '<span class="chip dim">' + esc(c.status) + "</span>" : "") +
-        "</div></article>";
-    }).join("");
-    out.innerHTML = html;
+    // Simple conversation: prompt, then answer. No internal codes,
+    // no families, no dates-as-markup, no counts, no portions.
+    var turn = '<div class="talk-turn"><p class="talk-prompt">You: ' + esc(q) + '</p>';
+    if (!hits.length) {
+      turn += '<p class="talk-answer">Goddess Myriad: ' + esc(t("none")) + '</p></div>';
+    } else {
+      turn += '<p class="talk-answer">Goddess Myriad: ' + esc(t("found")) + '</p><ul class="talk-list">' +
+        hits.map(function (c) { return "<li>" + esc(c.name) + "</li>"; }).join("") + "</ul></div>";
+    }
+    if (out.querySelector(".empty")) out.innerHTML = "";
+    out.innerHTML += turn;
+    document.getElementById("talkInput").value = "";
+    out.scrollTop = out.scrollHeight;
   }
   function setQuery(q) {
     document.getElementById("talkInput").value = q;
